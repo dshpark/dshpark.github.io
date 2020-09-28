@@ -11,14 +11,15 @@ author_profile: true
 
 ### Projects in the field
 
-- "Reducing Intimate Partner Violence of Disadvantaged Women in Monrovia: An Experiment with Red Cross's Women Training and Integration Program" (with Naresh Kumar) </br>
-[[AEA RCT Registry]](https://www.socialscienceregistry.org/trials/4488)
+- "Reducing Intimate Partner Violence of Disadvantaged Women in Monrovia: An Experiment with Red Cross's Women Training and Integration Program" (with Naresh Kumar) 
 
 	<details>
 	  <summary>Abstract</summary>
 	  
 	  The civil war in Liberia killed around 10% of the population and displaced a majority. Even after more than 15 years of peace, the country is still suffering from the lasting impacts of its civil war, one of them being a permissive environment to violence in everyday lives. While violence against women and girls was systematically mobilized during the war, intimate partner violence (IPV) is highly prevalent in today's Liberia. To address IPV among a war-affected population, we conduct a randomized controlled trial with 1,200 disadvantaged women in Monrovia, Liberia. We evaluate the effectiveness of an unusually intensive female empowerment program that integrates psychosocial support with vocational training and business capital grants targeted towards marginalized women in slum communities.
 	</details>
+
+	[[AEA RCT Registry]](https://www.socialscienceregistry.org/trials/4488)
 
 - "The Effect of Cash Transfers and Market Access on Households in Rural Liberia and Malawi" (with [Shilpa Aggarwal](http://www.isb.edu/faculty/shilpa_aggarwal/), [Jenny Aker](https://sites.tufts.edu/jennyaker/), [Dahyeon Jeong](https://people.ucsc.edu/~dajeong/), Naresh Kumar, [Jonathan Robinson](https://people.ucsc.edu/~jmrtwo/), and [Alan Spearot](https://people.ucsc.edu/~aspearot/))
 
