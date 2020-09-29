@@ -1,5 +1,5 @@
 ---
-title: "Econ204a (F16)"
+title: 
 permalink: /coursework/econ204a/
 author_profile: false
 ---
