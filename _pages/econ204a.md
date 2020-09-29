@@ -1,4 +1,5 @@
 ---
+layout: archive
 title: 
 permalink: /coursework/econ204a/
 author_profile: true
