@@ -1,10 +1,11 @@
 ---
+title: "Coursework"
 permalink: /coursework/
 author_profile: true
 ---
 
 ### Fall 2016
-[ECON 204A: Advanced Microeconomic Theory I (Natalia Lazzati)](/coursework/econ204a/)<br/>
+ECON 204A: Advanced Microeconomic Theory I (Natalia Lazzati)<br/>
 ECON 205A: Advanced Macroeconomic Theory I (Kenneth M. Kletzer) <br/>
 ECON 211A: Advanced Econometrics I (Robert W. Fairlie) <br/>
 
