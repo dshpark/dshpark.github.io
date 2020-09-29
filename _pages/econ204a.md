@@ -1,14 +1,14 @@
 ---
 title: 
 permalink: /coursework/econ204a/
-author_profile: false
+author_profile: true
 ---
 
 <center> <h2> ECON 204A: Advanced Microeconomic Theory I </h2> </center>
 
-<center> <h4> (Natalia Lazzati, 2016 Fall) </h4> </center>
+<center> <h3> (Natalia Lazzati, 2016 Fall) </h3> </center>
 
-#### Problem Sets
+### Problem Sets
 - Problem Set 1 - [Solution]
 - Problem Set 2 - [Solution]
 - Problem Set 3 - [Solution]
@@ -18,12 +18,12 @@ author_profile: false
 - Problem Set 7 - [Solution]
 
 
-#### Exams
+### Exams
 - Mid-term - [Solution]
 - Final - [Solution]
 
 
-#### Practice Exams
+### Practice Exams
 - Mid-term - [Solution]
 - Final - [Solution]
 

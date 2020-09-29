@@ -1,5 +1,4 @@
 ---
-layout: archive
 title: 
 permalink: /coursework/
 author_profile: true
