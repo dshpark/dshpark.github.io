@@ -1,11 +1,7 @@
 ---
-title: 
 permalink: /coursework/
 author_profile: true
 ---
-
-Coursework
-----------
 
 ### Fall 2016
 [ECON 204A: Advanced Microeconomic Theory I (Natalia Lazzati)](/coursework/econ204a/)<br/>
