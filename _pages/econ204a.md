@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Econ"
+title: "Coursework: Econ204A"
 permalink: /coursework/econ204a/
 author_profile: true
 ---
