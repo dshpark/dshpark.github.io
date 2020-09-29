@@ -5,7 +5,6 @@ author_profile: true
 ---
 
 <center> <h2> ECON 204A: Advanced Microeconomic Theory I </h2> </center>
-
 <center> <h3> (Natalia Lazzati, 2016 Fall) </h3> </center>
 
 ### Problem Sets
@@ -17,11 +16,9 @@ author_profile: true
 - Problem Set 6 - [Solution]
 - Problem Set 7 - [Solution]
 
-
 ### Exams
 - Mid-term - [Solution]
 - Final - [Solution]
-
 
 ### Practice Exams
 - Mid-term - [Solution]
