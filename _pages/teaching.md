@@ -4,13 +4,20 @@ permalink: /teaching/
 author_profile: true
 ---
 
-<h2> ECON 113: Introduction to Econometrics </h2>
-
+### ECON 113: Introduction to Econometrics
 - Spring 2017 (Carlos E. Dobkin)
 - Fall 2017 (Jessie Q. Li)
 
-<h2> ECON 104: Is There Truth In Numbers: The Role Of Statistics In Economics </h2>
+### ECON 104: Is There Truth In Numbers: The Role Of Statistics In Economics
+- Winter 2018 (Carlos E. Dobkin)
+- Spring 2018 (Carlos E. Dobkin)
 
-<h2> ECON 104: Is There Truth In Numbers: The Role Of Statistics In Economics </h2>
+### ECON 120: Development Economics
+- Fall 2020 (Jonathan M. Robinson)
+
+### ECON 201: Applications in Microeconomics
+- Spring 2019 (Justin Marion)
+- Spring 2020 (Justin Marion)
+
 
 
