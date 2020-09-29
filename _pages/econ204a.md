@@ -1,8 +1,7 @@
 ---
-layout: archive
-title: 
+title: "Econ204a (F16)"
 permalink: /coursework/econ204a/
-author_profile: true
+author_profile: false
 ---
 
 <center> <h2> ECON 204A: Advanced Microeconomic Theory I </h2> </center>
