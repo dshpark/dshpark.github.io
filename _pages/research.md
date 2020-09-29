@@ -3,13 +3,15 @@ permalink: /research/
 author_profile: true
 ---
 
-<h2> Working papers </h2>
+Working paper
+--------------
 
 
 
-<h2> Projects in the field </h2>
+Projects in the field
+---------------------
 
-- "Reducing Intimate Partner Violence of Disadvantaged Women in Monrovia: An Experiment with Red Cross's Women Training and Integration Program" (with Naresh Kumar) 
+- "Reducing Intimate Partner Violence of Disadvantaged Women in Monrovia: An Experiment with Red Cross's Women Training and Integration Program" (with Naresh Kumar)
 
 	<details>
 	  <summary>Abstract</summary>
