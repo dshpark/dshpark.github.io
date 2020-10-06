@@ -1,0 +1,272 @@
+{smcl}
+{com}{sf}{ul off}{txt}{.-}
+      name:  {res}<unnamed>
+       {txt}log:  {res}/Users/DSP/Google Drive/UCSC/Teaching/Econ120_F20/Analysis/doFiles/Econ120_F20_Section1.smcl
+  {txt}log type:  {res}smcl
+ {txt}opened on:  {res} 6 Oct 2020, 10:33:30
+{txt}
+{com}. 
+. use "dtaFiles/WDI.dta", clear
+{txt}
+{com}. 
+. // Counting number of distinct observations
+. codebook countrycode // often "code" is preferrable to "name" as there could be name duplicates
+
+{txt}{hline}
+{res}countrycode{right:(unlabeled)}
+{txt}{hline}
+
+{col 19}type:  string ({res}str3{txt})
+
+{col 10}unique values:  {res}214{col 51}{txt}missing "":  {res}0{txt}/{res}214
+
+{txt}{col 15}examples:  {res}"COM"
+{col 26}"HUN"
+{col 26}"MLI"
+{col 26}"SLV"
+{txt}
+{com}. distinct countrycode
+
+{txt}{col 14}{c |}        Observations
+{col 14}{c |}      total   distinct
+{hline 13}{c +}{hline 22}
+ countrycode {c |}  {res}      214        214
+{txt}
+{com}. *ssc install distinct // if "distinct" package is not already installed
+. 
+. // Summary statistics of variable(s)
+. summarize GDP_pc
+
+{txt}    Variable {c |}        Obs        Mean    Std. Dev.       Min        Max
+{hline 13}{c +}{hline 57}
+{space 6}GDP_pc {c |}{res}        198    15079.19    23824.97   198.7087   172676.3
+{txt}
+{com}. su GDP_pc, detail // usually to get median or to detect outliers
+
+                {txt}GDP per capita (current US$)
+{hline 61}
+      Percentiles      Smallest
+ 1%    {res} 241.7868       198.7087
+{txt} 5%    {res} 426.6254       241.7868
+{txt}10%    {res}  550.688       320.3787       {txt}Obs         {res}        198
+{txt}25%    {res} 1382.281       323.6497       {txt}Sum of Wgt. {res}        198
+
+{txt}50%    {res} 4920.079                      {txt}Mean          {res} 15079.19
+                        {txt}Largest       Std. Dev.     {res} 23824.97
+{txt}75%    {res}  18184.2       89739.31
+{txt}90%    {res} 45205.93       103574.2       {txt}Variance      {res} 5.68e+08
+{txt}95%    {res} 56485.89       134914.7       {txt}Skewness      {res} 3.086267
+{txt}99%    {res} 134914.7       172676.3       {txt}Kurtosis      {res} 15.88505
+{txt}
+{com}. 
+. // To get a rough distribution of a variable (in addition to comparing the mean vs. median)
+. histogram GDP_pc
+{txt}(bin={res}14{txt}, start={res}198.70869{txt}, width={res}12319.828{txt})
+{res}{txt}
+{com}. kdensity GDP_pc
+{res}{txt}
+{com}. 
+. // Graphing scatter plots
+. scatter mort_rate_under5 GDP_pc  
+{res}{txt}
+{com}. graph export "output/scatter_under5_gdp.pdf", replace
+{txt}(file /Users/DSP/Google Drive/UCSC/Teaching/Econ120_F20/Analysis/output/scatter_under5_gdp.pdf written in PDF format)
+
+{com}. 
+. // Tabulating summary statistics by group
+. su GDP_pc if region=="East Asia & Pacific"
+
+{txt}    Variable {c |}        Obs        Mean    Std. Dev.       Min        Max
+{hline 13}{c +}{hline 57}
+{space 6}GDP_pc {c |}{res}         29    12673.55    16934.28   765.9505   51998.91
+{txt}
+{com}. su GDP_pc if region=="Europe & Central Asia"
+
+{txt}    Variable {c |}        Obs        Mean    Std. Dev.       Min        Max
+{hline 13}{c +}{hline 57}
+{space 6}GDP_pc {c |}{res}         57    30262.11    33776.28   820.1831   172676.3
+{txt}
+{com}. 
+. tabstat GDP_pc, by(region)
+
+{txt}Summary for variables: GDP_pc
+{col 6}by categories of: region 
+
+{ralign 16:region} {...}
+{c |}      mean
+{hline 17}{c +}{hline 10}
+{ralign 16:East Asia & Paci} {...}
+{c |}{...}
+ {res} 12673.55
+{txt}{ralign 16:Europe & Central} {...}
+{c |}{...}
+ {res} 30262.11
+{txt}{ralign 16:Latin America & } {...}
+{c |}{...}
+ {res} 8145.655
+{txt}{ralign 16:Middle East & No} {...}
+{c |}{...}
+ {res} 15540.63
+{txt}{ralign 16:North America} {...}
+{c |}{...}
+ {res} 60854.44
+{txt}{ralign 16:South Asia} {...}
+{c |}{...}
+ {res} 1901.538
+{txt}{ralign 16:Sub-Saharan Afri} {...}
+{c |}{...}
+ {res} 2290.782
+{txt}{hline 17}{c +}{hline 10}
+{ralign 16:Total} {...}
+{c |}{...}
+ {res} 15079.19
+{txt}{hline 17}{c BT}{hline 10}
+
+{com}. 
+. // Generating new variables
+. generate lit_gender_gap_adult = lit_rate_fem_adult - lit_rate_male_adult
+{txt}(72 missing values generated)
+
+{com}. 
+. // Sorting observations by certain variable
+. browse countryname GDP_pc
+{txt}
+{com}.         
+.         // "+" sign for ascending order
+.         sort GDP_pc
+{txt}
+{com}.         gsort +GDP_pc
+{txt}
+{com}.         gsort GDP_pc
+{txt}
+{com}.         
+.         br countryname GDP_pc
+{txt}
+{com}.         br countryname GDP_pc if _n<=50
+{txt}
+{com}.         br countryname GDP_pc lit_rate_fem_adult mort_rate_under5 if _n<=50
+{txt}
+{com}.         su lit_rate_fem_adult mort_rate_under5 if _n<=50
+
+{txt}    Variable {c |}        Obs        Mean    Std. Dev.       Min        Max
+{hline 13}{c +}{hline 57}
+lit_rate_f~t {c |}{res}         45    56.77436     21.4347   20.28793   99.59084
+{txt}mort_rate_~5 {c |}{res}         50      94.236    42.33325       22.2      188.8
+{txt}
+{com}.         
+.         // "-" for descending order
+.         gsort -GDP_pc
+{txt}
+{com}. 
+. // Running regressions
+. regress lit_rate_fem_adult GDP_pc
+
+{txt}      Source {c |}       SS           df       MS      Number of obs   ={res}       136
+{txt}{hline 13}{c +}{hline 34}   F(1, 134)       = {res}    26.18
+{txt}       Model {c |} {res}  10618.384         1   10618.384   {txt}Prob > F        ={res}    0.0000
+{txt}    Residual {c |} {res} 54348.2143       134  405.583689   {txt}R-squared       ={res}    0.1634
+{txt}{hline 13}{c +}{hline 34}   Adj R-squared   ={res}    0.1572
+{txt}       Total {c |} {res} 64966.5983       135  481.234062   {txt}Root MSE        =   {res} 20.139
+
+{txt}{hline 13}{c TT}{hline 11}{hline 11}{hline 9}{hline 8}{hline 13}{hline 12}
+{col 1}lit_rate_f~t{col 14}{c |}      Coef.{col 26}   Std. Err.{col 38}      t{col 46}   P>|t|{col 54}     [95% Con{col 67}f. Interval]
+{hline 13}{c +}{hline 11}{hline 11}{hline 9}{hline 8}{hline 13}{hline 12}
+{space 6}GDP_pc {c |}{col 14}{res}{space 2} .0008187{col 26}{space 2}   .00016{col 37}{space 1}    5.12{col 46}{space 3}0.000{col 54}{space 4} .0005022{col 67}{space 3} .0011351
+{txt}{space 7}_cons {c |}{col 14}{res}{space 2} 72.80448{col 26}{space 2}   2.0995{col 37}{space 1}   34.68{col 46}{space 3}0.000{col 54}{space 4} 68.65204{col 67}{space 3} 76.95692
+{txt}{hline 13}{c BT}{hline 11}{hline 11}{hline 9}{hline 8}{hline 13}{hline 12}
+{res}{txt}
+{com}. 
+. gen GDP_pc_1000 = GDP_pc/1000
+{txt}(16 missing values generated)
+
+{com}. regress lit_rate_fem_adult GDP_pc_1000
+
+{txt}      Source {c |}       SS           df       MS      Number of obs   ={res}       136
+{txt}{hline 13}{c +}{hline 34}   F(1, 134)       = {res}    26.18
+{txt}       Model {c |} {res} 10618.3842         1  10618.3842   {txt}Prob > F        ={res}    0.0000
+{txt}    Residual {c |} {res} 54348.2141       134  405.583687   {txt}R-squared       ={res}    0.1634
+{txt}{hline 13}{c +}{hline 34}   Adj R-squared   ={res}    0.1572
+{txt}       Total {c |} {res} 64966.5983       135  481.234062   {txt}Root MSE        =   {res} 20.139
+
+{txt}{hline 13}{c TT}{hline 11}{hline 11}{hline 9}{hline 8}{hline 13}{hline 12}
+{col 1}lit_rate_f~t{col 14}{c |}      Coef.{col 26}   Std. Err.{col 38}      t{col 46}   P>|t|{col 54}     [95% Con{col 67}f. Interval]
+{hline 13}{c +}{hline 11}{hline 11}{hline 9}{hline 8}{hline 13}{hline 12}
+{space 1}GDP_pc_1000 {c |}{col 14}{res}{space 2} .8186839{col 26}{space 2} .1600027{col 37}{space 1}    5.12{col 46}{space 3}0.000{col 54}{space 4} .5022264{col 67}{space 3} 1.135141
+{txt}{space 7}_cons {c |}{col 14}{res}{space 2} 72.80448{col 26}{space 2}   2.0995{col 37}{space 1}   34.68{col 46}{space 3}0.000{col 54}{space 4} 68.65204{col 67}{space 3} 76.95692
+{txt}{hline 13}{c BT}{hline 11}{hline 11}{hline 9}{hline 8}{hline 13}{hline 12}
+{res}{txt}
+{com}. 
+. // Reporting regression lines in graphs
+.         // Option 1
+.         twoway (scatter mort_rate_under5 GDP_pc) (lfit mort_rate_under5 GDP_pc)
+{res}{txt}
+{com}.         graph export "output/scatter_under5_gdp_lfit.pdf", replace
+{txt}(file /Users/DSP/Google Drive/UCSC/Teaching/Econ120_F20/Analysis/output/scatter_under5_gdp_lfit.pdf written in PDF format)
+
+{com}.         
+.         // Option 2 (more flexible)
+.         reg mort_rate_under5 GDP_pc 
+
+{txt}      Source {c |}       SS           df       MS      Number of obs   ={res}       189
+{txt}{hline 13}{c +}{hline 34}   F(1, 187)       = {res}    36.12
+{txt}       Model {c |} {res} 61750.7518         1  61750.7518   {txt}Prob > F        ={res}    0.0000
+{txt}    Residual {c |} {res} 319686.513       187  1709.55354   {txt}R-squared       ={res}    0.1619
+{txt}{hline 13}{c +}{hline 34}   Adj R-squared   ={res}    0.1574
+{txt}       Total {c |} {res} 381437.265       188  2028.92162   {txt}Root MSE        =   {res} 41.347
+
+{txt}{hline 13}{c TT}{hline 11}{hline 11}{hline 9}{hline 8}{hline 13}{hline 12}
+{col 1}mort_rate_~5{col 14}{c |}      Coef.{col 26}   Std. Err.{col 38}      t{col 46}   P>|t|{col 54}     [95% Con{col 67}f. Interval]
+{hline 13}{c +}{hline 11}{hline 11}{hline 9}{hline 8}{hline 13}{hline 12}
+{space 6}GDP_pc {c |}{col 14}{res}{space 2}-.0007938{col 26}{space 2} .0001321{col 37}{space 1}   -6.01{col 46}{space 3}0.000{col 54}{space 4}-.0010543{col 67}{space 3}-.0005332
+{txt}{space 7}_cons {c |}{col 14}{res}{space 2} 51.30922{col 26}{space 2} 3.509479{col 37}{space 1}   14.62{col 46}{space 3}0.000{col 54}{space 4} 44.38596{col 67}{space 3} 58.23248
+{txt}{hline 13}{c BT}{hline 11}{hline 11}{hline 9}{hline 8}{hline 13}{hline 12}
+{res}{txt}
+{com}.         predict mort_rate_under5_yhat
+{txt}(option {bf:xb} assumed; fitted values)
+(16 missing values generated)
+
+{com}.         twoway (scatter mort_rate_under5 GDP_pc) (line mort_rate_under5_yhat GDP_pc)
+{res}{txt}
+{com}.         graph export "output/scatter_under5_gdp_pred.pdf", replace
+{txt}(file /Users/DSP/Google Drive/UCSC/Teaching/Econ120_F20/Analysis/output/scatter_under5_gdp_pred.pdf written in PDF format)
+
+{com}.         
+.                 // Example: squared terms
+.                 gen GDP_pc_2 = GDP_pc^2
+{txt}(16 missing values generated)
+
+{com}.                 reg mort_rate_under5 GDP_pc GDP_pc_2
+
+{txt}      Source {c |}       SS           df       MS      Number of obs   ={res}       189
+{txt}{hline 13}{c +}{hline 34}   F(2, 186)       = {res}    34.31
+{txt}       Model {c |} {res} 102803.585         2  51401.7927   {txt}Prob > F        ={res}    0.0000
+{txt}    Residual {c |} {res} 278633.679       186  1498.03053   {txt}R-squared       ={res}    0.2695
+{txt}{hline 13}{c +}{hline 34}   Adj R-squared   ={res}    0.2617
+{txt}       Total {c |} {res} 381437.265       188  2028.92162   {txt}Root MSE        =   {res} 38.704
+
+{txt}{hline 13}{c TT}{hline 11}{hline 11}{hline 9}{hline 8}{hline 13}{hline 12}
+{col 1}mort_rate_~5{col 14}{c |}      Coef.{col 26}   Std. Err.{col 38}      t{col 46}   P>|t|{col 54}     [95% Con{col 67}f. Interval]
+{hline 13}{c +}{hline 11}{hline 11}{hline 9}{hline 8}{hline 13}{hline 12}
+{space 6}GDP_pc {c |}{col 14}{res}{space 2}-.0020124{col 26}{space 2} .0002636{col 37}{space 1}   -7.63{col 46}{space 3}0.000{col 54}{space 4}-.0025323{col 67}{space 3}-.0014924
+{txt}{space 4}GDP_pc_2 {c |}{col 14}{res}{space 2} 1.14e-08{col 26}{space 2} 2.17e-09{col 37}{space 1}    5.23{col 46}{space 3}0.000{col 54}{space 4} 7.07e-09{col 67}{space 3} 1.56e-08
+{txt}{space 7}_cons {c |}{col 14}{res}{space 2} 59.98135{col 26}{space 2}  3.67924{col 37}{space 1}   16.30{col 46}{space 3}0.000{col 54}{space 4} 52.72294{col 67}{space 3} 67.23975
+{txt}{hline 13}{c BT}{hline 11}{hline 11}{hline 9}{hline 8}{hline 13}{hline 12}
+{res}{txt}
+{com}.                 predict mort_rate_under5_yhat2
+{txt}(option {bf:xb} assumed; fitted values)
+(16 missing values generated)
+
+{com}.                 twoway (scatter mort_rate_under5 GDP_pc) (line mort_rate_under5_yhat2 GDP_pc)
+{res}{txt}
+{com}.                 graph export "output/scatter_under5_gdp_pred2.pdf", replace
+{txt}(file /Users/DSP/Google Drive/UCSC/Teaching/Econ120_F20/Analysis/output/scatter_under5_gdp_pred2.pdf written in PDF format)
+
+{com}.         
+. log close
+      {txt}name:  {res}<unnamed>
+       {txt}log:  {res}/Users/DSP/Google Drive/UCSC/Teaching/Econ120_F20/Analysis/doFiles/Econ120_F20_Section1.smcl
+  {txt}log type:  {res}smcl
+ {txt}closed on:  {res} 6 Oct 2020, 10:33:39
+{txt}{.-}
+{smcl}
+{txt}{sf}{ul off}
