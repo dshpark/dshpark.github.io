@@ -1,0 +1,666 @@
+{smcl}
+{com}{sf}{ul off}{txt}{.-}
+      name:  {res}<unnamed>
+       {txt}log:  {res}/Users/DSP/Google Drive/UCSC/Teaching/Econ120_F20/Analysis/doFiles/Econ120_F20_Section2.smcl
+  {txt}log type:  {res}smcl
+ {txt}opened on:  {res}14 Oct 2020, 01:40:50
+{txt}
+{com}. 
+. use "dtaFiles/farming.dta", clear
+{txt}
+{com}. 
+. // Exporting (nice-looking) sumstat table
+. eststo s2_tab1: estpost su age gender edu_years married, d
+
+{txt}{space 0}{space 0}{ralign 12:}{space 1}{c |}{space 1}{ralign 9:e(count)}{space 1}{space 1}{ralign 9:e(sum_w)}{space 1}{space 1}{ralign 9:e(mean)}{space 1}{space 1}{ralign 9:e(Var)}{space 1}{space 1}{ralign 9:e(sd)}{space 1}{space 1}{ralign 9:e(skewn~)}{space 1}
+{space 0}{hline 13}{c   +}{hline 11}{hline 11}{hline 11}{hline 11}{hline 11}{hline 11}
+{space 0}{space 0}{ralign 12:age}{space 1}{c |}{space 1}{ralign 9:{res:{sf:     1047}}}{space 1}{space 1}{ralign 9:{res:{sf:     1047}}}{space 1}{space 1}{ralign 9:{res:{sf: 42.63992}}}{space 1}{space 1}{ralign 9:{res:{sf: 171.3339}}}{space 1}{space 1}{ralign 9:{res:{sf: 13.08946}}}{space 1}{space 1}{ralign 9:{res:{sf: .5193416}}}{space 1}
+{space 0}{space 0}{ralign 12:gender}{space 1}{c |}{space 1}{ralign 9:{res:{sf:     1047}}}{space 1}{space 1}{ralign 9:{res:{sf:     1047}}}{space 1}{space 1}{ralign 9:{res:{sf:  .469914}}}{space 1}{space 1}{ralign 9:{res:{sf:  .249333}}}{space 1}{space 1}{ralign 9:{res:{sf: .4993325}}}{space 1}{space 1}{ralign 9:{res:{sf: .1205623}}}{space 1}
+{space 0}{space 0}{ralign 12:edu_years}{space 1}{c |}{space 1}{ralign 9:{res:{sf:     1040}}}{space 1}{space 1}{ralign 9:{res:{sf:     1040}}}{space 1}{space 1}{ralign 9:{res:{sf: 8.665385}}}{space 1}{space 1}{ralign 9:{res:{sf: 11.00053}}}{space 1}{space 1}{ralign 9:{res:{sf: 3.316705}}}{space 1}{space 1}{ralign 9:{res:{sf: -.761239}}}{space 1}
+{space 0}{space 0}{ralign 12:married}{space 1}{c |}{space 1}{ralign 9:{res:{sf:     1044}}}{space 1}{space 1}{ralign 9:{res:{sf:     1044}}}{space 1}{space 1}{ralign 9:{res:{sf: .8908046}}}{space 1}{space 1}{ralign 9:{res:{sf:  .097365}}}{space 1}{space 1}{ralign 9:{res:{sf: .3120337}}}{space 1}{space 1}{ralign 9:{res:{sf:-2.506088}}}{space 1}
+
+{space 0}{space 0}{ralign 12:}{space 1}{c |}{space 1}{ralign 9:e(kurto~)}{space 1}{space 1}{ralign 9:e(sum)}{space 1}{space 1}{ralign 9:e(min)}{space 1}{space 1}{ralign 9:e(max)}{space 1}{space 1}{ralign 9:e(p1)}{space 1}{space 1}{ralign 9:e(p5)}{space 1}
+{space 0}{hline 13}{c   +}{hline 11}{hline 11}{hline 11}{hline 11}{hline 11}{hline 11}
+{space 0}{space 0}{ralign 12:age}{space 1}{c |}{space 1}{ralign 9:{res:{sf: 2.845444}}}{space 1}{space 1}{ralign 9:{res:{sf:    44644}}}{space 1}{space 1}{ralign 9:{res:{sf:       18}}}{space 1}{space 1}{ralign 9:{res:{sf:       90}}}{space 1}{space 1}{ralign 9:{res:{sf:       21}}}{space 1}{space 1}{ralign 9:{res:{sf:       24}}}{space 1}
+{space 0}{space 0}{ralign 12:gender}{space 1}{c |}{space 1}{ralign 9:{res:{sf: 1.014535}}}{space 1}{space 1}{ralign 9:{res:{sf:      492}}}{space 1}{space 1}{ralign 9:{res:{sf:        0}}}{space 1}{space 1}{ralign 9:{res:{sf:        1}}}{space 1}{space 1}{ralign 9:{res:{sf:        0}}}{space 1}{space 1}{ralign 9:{res:{sf:        0}}}{space 1}
+{space 0}{space 0}{ralign 12:edu_years}{space 1}{c |}{space 1}{ralign 9:{res:{sf:  3.00167}}}{space 1}{space 1}{ralign 9:{res:{sf:     9012}}}{space 1}{space 1}{ralign 9:{res:{sf:        0}}}{space 1}{space 1}{ralign 9:{res:{sf:       14}}}{space 1}{space 1}{ralign 9:{res:{sf:        0}}}{space 1}{space 1}{ralign 9:{res:{sf:        2}}}{space 1}
+{space 0}{space 0}{ralign 12:married}{space 1}{c |}{space 1}{ralign 9:{res:{sf: 7.280475}}}{space 1}{space 1}{ralign 9:{res:{sf:      930}}}{space 1}{space 1}{ralign 9:{res:{sf:        0}}}{space 1}{space 1}{ralign 9:{res:{sf:        1}}}{space 1}{space 1}{ralign 9:{res:{sf:        0}}}{space 1}{space 1}{ralign 9:{res:{sf:        0}}}{space 1}
+
+{space 0}{space 0}{ralign 12:}{space 1}{c |}{space 1}{ralign 9:e(p10)}{space 1}{space 1}{ralign 9:e(p25)}{space 1}{space 1}{ralign 9:e(p50)}{space 1}{space 1}{ralign 9:e(p75)}{space 1}{space 1}{ralign 9:e(p90)}{space 1}{space 1}{ralign 9:e(p95)}{space 1}
+{space 0}{hline 13}{c   +}{hline 11}{hline 11}{hline 11}{hline 11}{hline 11}{hline 11}
+{space 0}{space 0}{ralign 12:age}{space 1}{c |}{space 1}{ralign 9:{res:{sf:       26}}}{space 1}{space 1}{ralign 9:{res:{sf:       32}}}{space 1}{space 1}{ralign 9:{res:{sf:       41}}}{space 1}{space 1}{ralign 9:{res:{sf:       51}}}{space 1}{space 1}{ralign 9:{res:{sf:       60}}}{space 1}{space 1}{ralign 9:{res:{sf:       67}}}{space 1}
+{space 0}{space 0}{ralign 12:gender}{space 1}{c |}{space 1}{ralign 9:{res:{sf:        0}}}{space 1}{space 1}{ralign 9:{res:{sf:        0}}}{space 1}{space 1}{ralign 9:{res:{sf:        0}}}{space 1}{space 1}{ralign 9:{res:{sf:        1}}}{space 1}{space 1}{ralign 9:{res:{sf:        1}}}{space 1}{space 1}{ralign 9:{res:{sf:        1}}}{space 1}
+{space 0}{space 0}{ralign 12:edu_years}{space 1}{c |}{space 1}{ralign 9:{res:{sf:        4}}}{space 1}{space 1}{ralign 9:{res:{sf:        7}}}{space 1}{space 1}{ralign 9:{res:{sf:        8}}}{space 1}{space 1}{ralign 9:{res:{sf:       12}}}{space 1}{space 1}{ralign 9:{res:{sf:       12}}}{space 1}{space 1}{ralign 9:{res:{sf:       12}}}{space 1}
+{space 0}{space 0}{ralign 12:married}{space 1}{c |}{space 1}{ralign 9:{res:{sf:        0}}}{space 1}{space 1}{ralign 9:{res:{sf:        1}}}{space 1}{space 1}{ralign 9:{res:{sf:        1}}}{space 1}{space 1}{ralign 9:{res:{sf:        1}}}{space 1}{space 1}{ralign 9:{res:{sf:        1}}}{space 1}{space 1}{ralign 9:{res:{sf:        1}}}{space 1}
+
+{space 0}{space 0}{ralign 12:}{space 1}{c |}{space 1}{ralign 9:e(p99)}{space 1}
+{space 0}{hline 13}{c   +}{hline 11}
+{space 0}{space 0}{ralign 12:age}{space 1}{c |}{space 1}{ralign 9:{res:{sf:       75}}}{space 1}
+{space 0}{space 0}{ralign 12:gender}{space 1}{c |}{space 1}{ralign 9:{res:{sf:        1}}}{space 1}
+{space 0}{space 0}{ralign 12:edu_years}{space 1}{c |}{space 1}{ralign 9:{res:{sf:       13}}}{space 1}
+{space 0}{space 0}{ralign 12:married}{space 1}{c |}{space 1}{ralign 9:{res:{sf:        1}}}{space 1}
+
+{com}. esttab s2_tab1 using "output/Section2_table1_raw.csv", replace cells("mean(fmt(%9.2f)) sd(fmt(%9.2f)) count(fmt(%9.0fc))") nonumber nomtitle noobs plain 
+{res}{txt}(output written to {browse  `"output/Section2_table1_raw.csv"'})
+
+{com}. 
+. // Using Stata as calculator 
+. su revenue_blue revenue_unmarked, d
+
+                    {txt}revenue on blue plot
+{hline 61}
+      Percentiles      Smallest
+ 1%    {res} 1300.486              0
+{txt} 5%    {res} 2948.775        604.877
+{txt}10%    {res} 3780.481       756.0963       {txt}Obs         {res}        840
+{txt}25%    {res} 5443.893       907.3156       {txt}Sum of Wgt. {res}        840
+
+{txt}50%    {res} 7409.743                      {txt}Mean          {res} 7631.081
+                        {txt}Largest       Std. Dev.     {res} 2974.044
+{txt}75%    {res} 9678.032       15575.58
+{txt}90%    {res} 11492.66       17390.21       {txt}Variance      {res}  8844940
+{txt}95%    {res}  12551.2       17995.09       {txt}Skewness      {res} .2306481
+{txt}99%    {res} 15121.92       18297.53       {txt}Kurtosis      {res}  2.97448
+
+                  {txt}revenue on unmarked plot
+{hline 61}
+      Percentiles      Smallest
+ 1%    {res}  604.877              0
+{txt} 5%    {res} 1814.631              0
+{txt}10%    {res} 2419.508              0       {txt}Obs         {res}        837
+{txt}25%    {res}  4082.92              0       {txt}Sum of Wgt. {res}        837
+
+{txt}50%    {res}  6048.77                      {txt}Mean          {res} 6257.677
+                        {txt}Largest       Std. Dev.     {res}  3107.03
+{txt}75%    {res}  8165.84       14970.71
+{txt}90%    {res} 10282.91       15273.14       {txt}Variance      {res}  9653637
+{txt}95%    {res} 11643.88       17238.99       {txt}Skewness      {res} .8625552
+{txt}99%    {res} 14517.05       29638.97       {txt}Kurtosis      {res} 6.384284
+{txt}
+{com}. display (7631-6257)/6257
+{res}.21959405
+{txt}
+{com}. 
+. // Mean difference test (t-test)
+. ttest revenue_blue = revenue_unmarked
+
+{txt}Paired t test
+{hline 9}{c TT}{hline 68}
+Variable{col 10}{c |}{col 16}Obs{col 27}Mean{col 35}Std. Err.{col 47}Std. Dev.{col 59}[95% Conf. Interval]
+{hline 9}{c +}{hline 68}
+revenu~e {c |}{res}{col 12}    832{col 22} 7645.133{col 34} 103.2956{col 46}   2979.5{col 58} 7442.382{col 70} 7847.884
+{txt}revenu~d {c |}{res}{col 12}    832{col 22} 6234.395{col 34} 104.2285{col 46} 3006.408{col 58} 6029.813{col 70} 6438.977
+{txt}{hline 9}{c +}{hline 68}
+    diff {c |}{res}{col 12}    832{col 22} 1410.737{col 34} 98.55829{col 46} 2842.856{col 58} 1217.285{col 70}  1604.19
+{txt}{hline 9}{c BT}{hline 68}
+     mean(diff) = mean({res}revenue_blue{txt} - {res}revenue_unmarked{txt})           t = {res} 14.3137
+{txt} Ho: mean(diff) = 0                              degrees of freedom = {res}     831
+
+ {txt}Ha: mean(diff) < 0           Ha: mean(diff) != 0           Ha: mean(diff) > 0
+ Pr(T < t) = {res}1.0000         {txt}Pr(|T| > |t|) = {res}0.0000          {txt}Pr(T > t) = {res}0.0000
+{txt}
+{com}. 
+. // Referring to (non)missing observations for a variable
+. count if missing(training)
+  {res}93
+{txt}
+{com}. count if !mi(training)
+  {res}1,155
+{txt}
+{com}. 
+.         // Another way
+.         count if training==.
+  {res}93
+{txt}
+{com}.         count if training!=.
+  {res}1,155
+{txt}
+{com}. 
+. // Generating a binary variable equal to 1 if satisfying a condition
+. gen dropped = .
+{txt}(1,248 missing values generated)
+
+{com}. replace dropped = 1 if !mi(training) & harvest!=1 
+{txt}(367 real changes made)
+
+{com}. replace dropped = 0 if !mi(training) & harvest==1
+{txt}(788 real changes made)
+
+{com}. 
+.         // A more streamlined way
+.         gen dropped2 = (harvest!=1) if !mi(training)
+{txt}(93 missing values generated)
+
+{com}.         compare dropped dropped2 // just to check whether the 2 vars are identical
+
+{txt}{col 41}{hline 10} difference {hline 10}
+{col 29}count{col 41}minimum{col 54}average{col 66}maximum
+{hline 72}
+dropped=dropped2        {res}     1155
+{txt}{col 24}{hline 10}
+jointly defined         {res}     1155             0            0           0
+{txt}jointly missing         {res}       93
+{txt}{col 24}{hline 10}
+total                   {res}     1248
+{txt}
+{com}. 
+. // Testing for differences
+. reg ever_anyfert dropped 
+
+{txt}      Source {c |}       SS           df       MS      Number of obs   ={res}       821
+{txt}{hline 13}{c +}{hline 34}   F(1, 819)       = {res}     1.35
+{txt}       Model {c |} {res} .142946599         1  .142946599   {txt}Prob > F        ={res}    0.2462
+{txt}    Residual {c |} {res} 86.9191728       819  .106128416   {txt}R-squared       ={res}    0.0016
+{txt}{hline 13}{c +}{hline 34}   Adj R-squared   ={res}    0.0004
+{txt}       Total {c |} {res} 87.0621194       820  .106173316   {txt}Root MSE        =   {res} .32577
+
+{txt}{hline 13}{c TT}{hline 11}{hline 11}{hline 9}{hline 8}{hline 13}{hline 12}
+{col 1}ever_anyfert{col 14}{c |}      Coef.{col 26}   Std. Err.{col 38}      t{col 46}   P>|t|{col 54}     [95% Con{col 67}f. Interval]
+{hline 13}{c +}{hline 11}{hline 11}{hline 9}{hline 8}{hline 13}{hline 12}
+{space 5}dropped {c |}{col 14}{res}{space 2} .0320216{col 26}{space 2} .0275913{col 37}{space 1}    1.16{col 46}{space 3}0.246{col 54}{space 4}-.0221364{col 67}{space 3} .0861796
+{txt}{space 7}_cons {c |}{col 14}{res}{space 2} .8724728{col 26}{space 2} .0128473{col 37}{space 1}   67.91{col 46}{space 3}0.000{col 54}{space 4} .8472554{col 67}{space 3} .8976902
+{txt}{hline 13}{c BT}{hline 11}{hline 11}{hline 9}{hline 8}{hline 13}{hline 12}
+{res}{txt}
+{com}. 
+. // Doing this for multiple variables 
+. local i = 1
+{txt}
+{com}. foreach YYY in age gender edu_years married {c -(}
+{txt}  2{com}.         eststo s2_reg_`i': reg `YYY' dropped 
+{txt}  3{com}.         su `yvar' if dropped==0 
+{txt}  4{com}.         estadd scalar nondroppedmean = r(mean)
+{txt}  5{com}.         local i = `i' + 1
+{txt}  6{com}. {c )-}
+
+{txt}      Source {c |}       SS           df       MS      Number of obs   ={res}       996
+{txt}{hline 13}{c +}{hline 34}   F(1, 994)       = {res}     1.85
+{txt}       Model {c |} {res} 316.190476         1  316.190476   {txt}Prob > F        ={res}    0.1742
+{txt}    Residual {c |} {res} 169988.143       994  171.014228   {txt}R-squared       ={res}    0.0019
+{txt}{hline 13}{c +}{hline 34}   Adj R-squared   ={res}    0.0009
+{txt}       Total {c |} {res} 170304.333       995  171.160134   {txt}Root MSE        =   {res} 13.077
+
+{txt}{hline 13}{c TT}{hline 11}{hline 11}{hline 9}{hline 8}{hline 13}{hline 12}
+{col 1}         age{col 14}{c |}      Coef.{col 26}   Std. Err.{col 38}      t{col 46}   P>|t|{col 54}     [95% Con{col 67}f. Interval]
+{hline 13}{c +}{hline 11}{hline 11}{hline 9}{hline 8}{hline 13}{hline 12}
+{space 5}dropped {c |}{col 14}{res}{space 2} -1.31746{col 26}{space 2} .9689007{col 37}{space 1}   -1.36{col 46}{space 3}0.174{col 54}{space 4}-3.218786{col 67}{space 3} .5838653
+{txt}{space 7}_cons {c |}{col 14}{res}{space 2} 43.15079{col 26}{space 2} .4756147{col 37}{space 1}   90.73{col 46}{space 3}0.000{col 54}{space 4} 42.21747{col 67}{space 3} 44.08412
+{txt}{hline 13}{c BT}{hline 11}{hline 11}{hline 9}{hline 8}{hline 13}{hline 12}
+{res}
+{txt}    Variable {c |}        Obs        Mean    Std. Dev.       Min        Max
+{hline 13}{c +}{hline 57}
+respondent~d {c |}{res}        788    6829.675    3962.465        101      13506
+{txt}{space 5}groupid {c |}{res}        788    6824.619    3962.272        100      13500
+{txt}{space 4}training {c |}{res}        788    .4720812     .499537          0          1
+{txt}{space 5}harvest {c |}{res}        788           1           0          1          1
+{txt}{space 2}monitoring {c |}{res}        757           1           0          1          1
+{txt}{hline 13}{c +}{hline 57}
+{space 7}added {c |}{res}          0
+{txt}{space 9}age {c |}{res}        756    43.15079    12.83821         19         90
+{txt}{space 6}gender {c |}{res}        756    .4656085    .4991461          0          1
+{txt}readkiswah~i {c |}{res}        752    .8949468     .306826          0          1
+{txt}writekiswa~i {c |}{res}        752    .8776596    .3278967          0          1
+{txt}{hline 13}{c +}{hline 57}
+readandwrite {c |}{res}        751    .8774967    .3280847          0          1
+{txt}{space 3}edu_years {c |}{res}        750       8.732    3.339118          0         14
+{txt}edu_years_~e {c |}{res}        660         8.9    3.106457          0         14
+{txt}{space 5}married {c |}{res}        753    .8977424    .3031882          0          1
+{txt}size_house~d {c |}{res}        754    6.949602    2.683402          1         20
+{txt}{hline 13}{c +}{hline 57}
+{space 2}land_owned {c |}{res}        747    3.475571    3.798668          0         45
+{txt}value_anim~s {c |}{res}        757    39230.54    44053.87          0     597500
+{txt}{space 1}value_tools {c |}{res}        756    4944.435    7799.618          0     163980
+{txt}value_hous~s {c |}{res}        757    18969.26    20737.97          0     245930
+{txt}ever_anyfert {c |}{res}        643    .8724728    .3338223          0          1
+{txt}{hline 13}{c +}{hline 57}
+{space 1}ever_hybrid {c |}{res}        637    .9466248    .2249572          0          1
+{txt}{space 1}ever_manure {c |}{res}        642    .7227414    .4479943          0          1
+{txt}ever_pesti~e {c |}{res}        641    .0280811    .1653337          0          1
+{txt}lastyr_any~t {c |}{res}        645    .7348837    .4417377          0          1
+{txt}lastyr_hyb~d {c |}{res}        646    .9179567    .2746434          0          1
+{txt}{hline 13}{c +}{hline 57}
+lastyr_man~e {c |}{res}        642     .529595    .4995125          0          1
+{txt}lastyr_pes~e {c |}{res}        632    .0189873    .1365882          0          1
+{txt}{space 3}acres_rof {c |}{res}        722    1.479457     1.47146          0       13.5
+{txt}revenue_blue {c |}{res}        763      7672.9    3008.429          0   18297.53
+{txt}revenue_un~d {c |}{res}        761    6237.605    3046.195          0   17238.99
+{txt}{hline 13}{c +}{hline 57}
+kg_tdfert_~e {c |}{res}        770     12.3539     1.35879          0         25
+{txt}kg_plantfe~e {c |}{res}        737    11.32225    3.320426          0         25
+{txt}packets_hy~e {c |}{res}        742    1.376456    .4753537          0         10
+{txt}kg_tdfert_~d {c |}{res}        768    8.076172    7.176649          0         75
+{txt}kg_plantfe~d {c |}{res}        732    6.255396    6.360199          0         25
+{txt}{hline 13}{c +}{hline 57}
+packets_hy~d {c |}{res}        738    1.329417    .5889743          0         10
+{txt}kg_tdfert_~f {c |}{res}        663    20.17873    35.43888          0        300
+{txt}kg_plantfe~f {c |}{res}        708    30.09958    71.41813          0       1000
+{txt}packets_hy~f {c |}{res}        715    5.157692    5.507797          0         60
+{txt}to~wing_blue {c |}{res}        788    19.28902    26.49476          0        300
+{txt}{hline 13}{c +}{hline 57}
+to~ting_blue {c |}{res}        788     7.91434    5.195843          0         32
+{txt}t~tfert_blue {c |}{res}        788    6.740799    5.074727          0         39
+{txt}to~ding_blue {c |}{res}        788     34.5066    28.07186          0        320
+{txt}t~dfert_blue {c |}{res}        788    7.074873    6.360274          0         48
+{txt}total~e_blue {c |}{res}        788    .5507614      2.6625          0         30
+{txt}{hline 13}{c +}{hline 57}
+tota~nt_blue {c |}{res}        788     7.32868    15.79926          0        168
+{txt}total_time.. {c |}{res}        788    18.55425    24.85319          0        300
+{txt}total_time.. {c |}{res}        788    7.645305      5.1519          0         32
+{txt}total_time.. {c |}{res}        788    4.549492    5.822018          0         80
+{txt}total_time.. {c |}{res}        788    33.69036    27.42008          0        320
+{txt}{hline 13}{c +}{hline 57}
+total_time.. {c |}{res}        788    4.926396    6.094526          0         50
+{txt}t~e_unmarked {c |}{res}        788    2.132614    6.119562          0        120
+{txt}~nt_unmarked {c |}{res}        788    6.739848     14.7652          0        168
+{txt}tot~wing_rof {c |}{res}        788    50.78414    70.02405          0        728
+{txt}tot~ting_rof {c |}{res}        788     11.5203    11.72074          0         84
+{txt}{hline 13}{c +}{hline 57}
+to~tfert_rof {c |}{res}        788    5.463198    9.675874          0         84
+{txt}tot~ding_rof {c |}{res}        788     64.4184    98.67568          0       1575
+{txt}to~dfert_rof {c |}{res}        788    5.546954    9.690887          0         84
+{txt}total_~e_rof {c |}{res}        788    3.576142    8.807769          0        120
+{txt}total~nt_rof {c |}{res}        788    6.163071    14.61011          0        168
+{txt}{hline 13}{c +}{hline 57}
+use_spacin~l {c |}{res}        747    .5568942    .4970853          0          1
+{txt}tdqty_1orm~p {c |}{res}        775    .0993548     .299331          0          1
+{txt}{space 1}tdqty_12tsp {c |}{res}        775    .8090323    .3933175          0          1
+{txt}{space 4}tdqty_DK {c |}{res}        775           0           0          0          0
+{txt}td_time_kn~h {c |}{res}        775           0           0          0          0
+{txt}{hline 13}{c +}{hline 57}
+{space 2}spacing_DK {c |}{res}        772    .0660622    .2485518          0          1
+{txt}spacing_l~20 {c |}{res}        772    .0867876     .281706          0          1
+{txt}facilitato~e {c |}{res}        712    8.460674     .935996          4         10
+{txt}facilitato~d {c |}{res}        712    7.630618    1.131229          2         10
+{txt}facilitato~f {c |}{res}        741    6.438596    3.859431          0         99
+{txt}{hline 13}{c +}{hline 57}
+{space 2}group_blue {c |}{res}        771    8.024643    1.300615          1         10
+{txt}group_unma~d {c |}{res}        770    7.238961    1.448748          1         10
+{txt}{space 3}group_rof {c |}{res}        750    6.142667    1.983825          0         10
+{txt}NGO_kick_o~y {c |}{res}        709    .4344147    .4960298          0          1
+{txt}NGO_keep_y~h {c |}{res}        681    .6490455    .4776195          0          1
+{txt}{hline 13}{c +}{hline 57}
+{space 5}dropped {c |}{res}        788           0           0          0          0
+{txt}{space 4}dropped2 {c |}{res}        788           0           0          0          0
+{txt}_est_s2_re~1 {c |}{res}        788    .9593909    .1975083          0          1
+
+{txt}added scalar:
+     e(nondroppedmean) =  {res}.95939086
+
+{txt}      Source {c |}       SS           df       MS      Number of obs   ={res}       996
+{txt}{hline 13}{c +}{hline 34}   F(1, 994)       = {res}     0.00
+{txt}       Model {c |} {res} .000203991         1  .000203991   {txt}Prob > F        ={res}    0.9772
+{txt}    Residual {c |} {res} 247.839153       994  .249335164   {txt}R-squared       ={res}    0.0000
+{txt}{hline 13}{c +}{hline 34}   Adj R-squared   ={res}   -0.0010
+{txt}       Total {c |} {res} 247.839357       995  .249084781   {txt}Root MSE        =   {res} .49933
+
+{txt}{hline 13}{c TT}{hline 11}{hline 11}{hline 9}{hline 8}{hline 13}{hline 12}
+{col 1}      gender{col 14}{c |}      Coef.{col 26}   Std. Err.{col 38}      t{col 46}   P>|t|{col 54}     [95% Con{col 67}f. Interval]
+{hline 13}{c +}{hline 11}{hline 11}{hline 9}{hline 8}{hline 13}{hline 12}
+{space 5}dropped {c |}{col 14}{res}{space 2} .0010582{col 26}{space 2}  .036996{col 37}{space 1}    0.03{col 46}{space 3}0.977{col 54}{space 4}-.0715411{col 67}{space 3} .0736575
+{txt}{space 7}_cons {c |}{col 14}{res}{space 2} .4656085{col 26}{space 2} .0181606{col 37}{space 1}   25.64{col 46}{space 3}0.000{col 54}{space 4} .4299709{col 67}{space 3}  .501246
+{txt}{hline 13}{c BT}{hline 11}{hline 11}{hline 9}{hline 8}{hline 13}{hline 12}
+{res}
+{txt}    Variable {c |}        Obs        Mean    Std. Dev.       Min        Max
+{hline 13}{c +}{hline 57}
+respondent~d {c |}{res}        788    6829.675    3962.465        101      13506
+{txt}{space 5}groupid {c |}{res}        788    6824.619    3962.272        100      13500
+{txt}{space 4}training {c |}{res}        788    .4720812     .499537          0          1
+{txt}{space 5}harvest {c |}{res}        788           1           0          1          1
+{txt}{space 2}monitoring {c |}{res}        757           1           0          1          1
+{txt}{hline 13}{c +}{hline 57}
+{space 7}added {c |}{res}          0
+{txt}{space 9}age {c |}{res}        756    43.15079    12.83821         19         90
+{txt}{space 6}gender {c |}{res}        756    .4656085    .4991461          0          1
+{txt}readkiswah~i {c |}{res}        752    .8949468     .306826          0          1
+{txt}writekiswa~i {c |}{res}        752    .8776596    .3278967          0          1
+{txt}{hline 13}{c +}{hline 57}
+readandwrite {c |}{res}        751    .8774967    .3280847          0          1
+{txt}{space 3}edu_years {c |}{res}        750       8.732    3.339118          0         14
+{txt}edu_years_~e {c |}{res}        660         8.9    3.106457          0         14
+{txt}{space 5}married {c |}{res}        753    .8977424    .3031882          0          1
+{txt}size_house~d {c |}{res}        754    6.949602    2.683402          1         20
+{txt}{hline 13}{c +}{hline 57}
+{space 2}land_owned {c |}{res}        747    3.475571    3.798668          0         45
+{txt}value_anim~s {c |}{res}        757    39230.54    44053.87          0     597500
+{txt}{space 1}value_tools {c |}{res}        756    4944.435    7799.618          0     163980
+{txt}value_hous~s {c |}{res}        757    18969.26    20737.97          0     245930
+{txt}ever_anyfert {c |}{res}        643    .8724728    .3338223          0          1
+{txt}{hline 13}{c +}{hline 57}
+{space 1}ever_hybrid {c |}{res}        637    .9466248    .2249572          0          1
+{txt}{space 1}ever_manure {c |}{res}        642    .7227414    .4479943          0          1
+{txt}ever_pesti~e {c |}{res}        641    .0280811    .1653337          0          1
+{txt}lastyr_any~t {c |}{res}        645    .7348837    .4417377          0          1
+{txt}lastyr_hyb~d {c |}{res}        646    .9179567    .2746434          0          1
+{txt}{hline 13}{c +}{hline 57}
+lastyr_man~e {c |}{res}        642     .529595    .4995125          0          1
+{txt}lastyr_pes~e {c |}{res}        632    .0189873    .1365882          0          1
+{txt}{space 3}acres_rof {c |}{res}        722    1.479457     1.47146          0       13.5
+{txt}revenue_blue {c |}{res}        763      7672.9    3008.429          0   18297.53
+{txt}revenue_un~d {c |}{res}        761    6237.605    3046.195          0   17238.99
+{txt}{hline 13}{c +}{hline 57}
+kg_tdfert_~e {c |}{res}        770     12.3539     1.35879          0         25
+{txt}kg_plantfe~e {c |}{res}        737    11.32225    3.320426          0         25
+{txt}packets_hy~e {c |}{res}        742    1.376456    .4753537          0         10
+{txt}kg_tdfert_~d {c |}{res}        768    8.076172    7.176649          0         75
+{txt}kg_plantfe~d {c |}{res}        732    6.255396    6.360199          0         25
+{txt}{hline 13}{c +}{hline 57}
+packets_hy~d {c |}{res}        738    1.329417    .5889743          0         10
+{txt}kg_tdfert_~f {c |}{res}        663    20.17873    35.43888          0        300
+{txt}kg_plantfe~f {c |}{res}        708    30.09958    71.41813          0       1000
+{txt}packets_hy~f {c |}{res}        715    5.157692    5.507797          0         60
+{txt}to~wing_blue {c |}{res}        788    19.28902    26.49476          0        300
+{txt}{hline 13}{c +}{hline 57}
+to~ting_blue {c |}{res}        788     7.91434    5.195843          0         32
+{txt}t~tfert_blue {c |}{res}        788    6.740799    5.074727          0         39
+{txt}to~ding_blue {c |}{res}        788     34.5066    28.07186          0        320
+{txt}t~dfert_blue {c |}{res}        788    7.074873    6.360274          0         48
+{txt}total~e_blue {c |}{res}        788    .5507614      2.6625          0         30
+{txt}{hline 13}{c +}{hline 57}
+tota~nt_blue {c |}{res}        788     7.32868    15.79926          0        168
+{txt}total_time.. {c |}{res}        788    18.55425    24.85319          0        300
+{txt}total_time.. {c |}{res}        788    7.645305      5.1519          0         32
+{txt}total_time.. {c |}{res}        788    4.549492    5.822018          0         80
+{txt}total_time.. {c |}{res}        788    33.69036    27.42008          0        320
+{txt}{hline 13}{c +}{hline 57}
+total_time.. {c |}{res}        788    4.926396    6.094526          0         50
+{txt}t~e_unmarked {c |}{res}        788    2.132614    6.119562          0        120
+{txt}~nt_unmarked {c |}{res}        788    6.739848     14.7652          0        168
+{txt}tot~wing_rof {c |}{res}        788    50.78414    70.02405          0        728
+{txt}tot~ting_rof {c |}{res}        788     11.5203    11.72074          0         84
+{txt}{hline 13}{c +}{hline 57}
+to~tfert_rof {c |}{res}        788    5.463198    9.675874          0         84
+{txt}tot~ding_rof {c |}{res}        788     64.4184    98.67568          0       1575
+{txt}to~dfert_rof {c |}{res}        788    5.546954    9.690887          0         84
+{txt}total_~e_rof {c |}{res}        788    3.576142    8.807769          0        120
+{txt}total~nt_rof {c |}{res}        788    6.163071    14.61011          0        168
+{txt}{hline 13}{c +}{hline 57}
+use_spacin~l {c |}{res}        747    .5568942    .4970853          0          1
+{txt}tdqty_1orm~p {c |}{res}        775    .0993548     .299331          0          1
+{txt}{space 1}tdqty_12tsp {c |}{res}        775    .8090323    .3933175          0          1
+{txt}{space 4}tdqty_DK {c |}{res}        775           0           0          0          0
+{txt}td_time_kn~h {c |}{res}        775           0           0          0          0
+{txt}{hline 13}{c +}{hline 57}
+{space 2}spacing_DK {c |}{res}        772    .0660622    .2485518          0          1
+{txt}spacing_l~20 {c |}{res}        772    .0867876     .281706          0          1
+{txt}facilitato~e {c |}{res}        712    8.460674     .935996          4         10
+{txt}facilitato~d {c |}{res}        712    7.630618    1.131229          2         10
+{txt}facilitato~f {c |}{res}        741    6.438596    3.859431          0         99
+{txt}{hline 13}{c +}{hline 57}
+{space 2}group_blue {c |}{res}        771    8.024643    1.300615          1         10
+{txt}group_unma~d {c |}{res}        770    7.238961    1.448748          1         10
+{txt}{space 3}group_rof {c |}{res}        750    6.142667    1.983825          0         10
+{txt}NGO_kick_o~y {c |}{res}        709    .4344147    .4960298          0          1
+{txt}NGO_keep_y~h {c |}{res}        681    .6490455    .4776195          0          1
+{txt}{hline 13}{c +}{hline 57}
+{space 5}dropped {c |}{res}        788           0           0          0          0
+{txt}{space 4}dropped2 {c |}{res}        788           0           0          0          0
+{txt}_est_s2_re~1 {c |}{res}        788    .9593909    .1975083          0          1
+{txt}_est_s2_re~2 {c |}{res}        788    .9593909    .1975083          0          1
+
+{txt}added scalar:
+     e(nondroppedmean) =  {res}.95939086
+
+{txt}      Source {c |}       SS           df       MS      Number of obs   ={res}       989
+{txt}{hline 13}{c +}{hline 34}   F(1, 987)       = {res}     0.63
+{txt}       Model {c |} {res} 6.99360763         1  6.99360763   {txt}Prob > F        ={res}    0.4267
+{txt}    Residual {c |} {res} 10918.5797       987  11.0623908   {txt}R-squared       ={res}    0.0006
+{txt}{hline 13}{c +}{hline 34}   Adj R-squared   ={res}   -0.0004
+{txt}       Total {c |} {res} 10925.5733       988  11.0582726   {txt}Root MSE        =   {res}  3.326
+
+{txt}{hline 13}{c TT}{hline 11}{hline 11}{hline 9}{hline 8}{hline 13}{hline 12}
+{col 1}   edu_years{col 14}{c |}      Coef.{col 26}   Std. Err.{col 38}      t{col 46}   P>|t|{col 54}     [95% Con{col 67}f. Interval]
+{hline 13}{c +}{hline 11}{hline 11}{hline 9}{hline 8}{hline 13}{hline 12}
+{space 5}dropped {c |}{col 14}{res}{space 2}-.1964351{col 26}{space 2} .2470547{col 37}{space 1}   -0.80{col 46}{space 3}0.427{col 54}{space 4}-.6812479{col 67}{space 3} .2883776
+{txt}{space 7}_cons {c |}{col 14}{res}{space 2}    8.732{col 26}{space 2}  .121449{col 37}{space 1}   71.90{col 46}{space 3}0.000{col 54}{space 4} 8.493672{col 67}{space 3} 8.970328
+{txt}{hline 13}{c BT}{hline 11}{hline 11}{hline 9}{hline 8}{hline 13}{hline 12}
+{res}
+{txt}    Variable {c |}        Obs        Mean    Std. Dev.       Min        Max
+{hline 13}{c +}{hline 57}
+respondent~d {c |}{res}        788    6829.675    3962.465        101      13506
+{txt}{space 5}groupid {c |}{res}        788    6824.619    3962.272        100      13500
+{txt}{space 4}training {c |}{res}        788    .4720812     .499537          0          1
+{txt}{space 5}harvest {c |}{res}        788           1           0          1          1
+{txt}{space 2}monitoring {c |}{res}        757           1           0          1          1
+{txt}{hline 13}{c +}{hline 57}
+{space 7}added {c |}{res}          0
+{txt}{space 9}age {c |}{res}        756    43.15079    12.83821         19         90
+{txt}{space 6}gender {c |}{res}        756    .4656085    .4991461          0          1
+{txt}readkiswah~i {c |}{res}        752    .8949468     .306826          0          1
+{txt}writekiswa~i {c |}{res}        752    .8776596    .3278967          0          1
+{txt}{hline 13}{c +}{hline 57}
+readandwrite {c |}{res}        751    .8774967    .3280847          0          1
+{txt}{space 3}edu_years {c |}{res}        750       8.732    3.339118          0         14
+{txt}edu_years_~e {c |}{res}        660         8.9    3.106457          0         14
+{txt}{space 5}married {c |}{res}        753    .8977424    .3031882          0          1
+{txt}size_house~d {c |}{res}        754    6.949602    2.683402          1         20
+{txt}{hline 13}{c +}{hline 57}
+{space 2}land_owned {c |}{res}        747    3.475571    3.798668          0         45
+{txt}value_anim~s {c |}{res}        757    39230.54    44053.87          0     597500
+{txt}{space 1}value_tools {c |}{res}        756    4944.435    7799.618          0     163980
+{txt}value_hous~s {c |}{res}        757    18969.26    20737.97          0     245930
+{txt}ever_anyfert {c |}{res}        643    .8724728    .3338223          0          1
+{txt}{hline 13}{c +}{hline 57}
+{space 1}ever_hybrid {c |}{res}        637    .9466248    .2249572          0          1
+{txt}{space 1}ever_manure {c |}{res}        642    .7227414    .4479943          0          1
+{txt}ever_pesti~e {c |}{res}        641    .0280811    .1653337          0          1
+{txt}lastyr_any~t {c |}{res}        645    .7348837    .4417377          0          1
+{txt}lastyr_hyb~d {c |}{res}        646    .9179567    .2746434          0          1
+{txt}{hline 13}{c +}{hline 57}
+lastyr_man~e {c |}{res}        642     .529595    .4995125          0          1
+{txt}lastyr_pes~e {c |}{res}        632    .0189873    .1365882          0          1
+{txt}{space 3}acres_rof {c |}{res}        722    1.479457     1.47146          0       13.5
+{txt}revenue_blue {c |}{res}        763      7672.9    3008.429          0   18297.53
+{txt}revenue_un~d {c |}{res}        761    6237.605    3046.195          0   17238.99
+{txt}{hline 13}{c +}{hline 57}
+kg_tdfert_~e {c |}{res}        770     12.3539     1.35879          0         25
+{txt}kg_plantfe~e {c |}{res}        737    11.32225    3.320426          0         25
+{txt}packets_hy~e {c |}{res}        742    1.376456    .4753537          0         10
+{txt}kg_tdfert_~d {c |}{res}        768    8.076172    7.176649          0         75
+{txt}kg_plantfe~d {c |}{res}        732    6.255396    6.360199          0         25
+{txt}{hline 13}{c +}{hline 57}
+packets_hy~d {c |}{res}        738    1.329417    .5889743          0         10
+{txt}kg_tdfert_~f {c |}{res}        663    20.17873    35.43888          0        300
+{txt}kg_plantfe~f {c |}{res}        708    30.09958    71.41813          0       1000
+{txt}packets_hy~f {c |}{res}        715    5.157692    5.507797          0         60
+{txt}to~wing_blue {c |}{res}        788    19.28902    26.49476          0        300
+{txt}{hline 13}{c +}{hline 57}
+to~ting_blue {c |}{res}        788     7.91434    5.195843          0         32
+{txt}t~tfert_blue {c |}{res}        788    6.740799    5.074727          0         39
+{txt}to~ding_blue {c |}{res}        788     34.5066    28.07186          0        320
+{txt}t~dfert_blue {c |}{res}        788    7.074873    6.360274          0         48
+{txt}total~e_blue {c |}{res}        788    .5507614      2.6625          0         30
+{txt}{hline 13}{c +}{hline 57}
+tota~nt_blue {c |}{res}        788     7.32868    15.79926          0        168
+{txt}total_time.. {c |}{res}        788    18.55425    24.85319          0        300
+{txt}total_time.. {c |}{res}        788    7.645305      5.1519          0         32
+{txt}total_time.. {c |}{res}        788    4.549492    5.822018          0         80
+{txt}total_time.. {c |}{res}        788    33.69036    27.42008          0        320
+{txt}{hline 13}{c +}{hline 57}
+total_time.. {c |}{res}        788    4.926396    6.094526          0         50
+{txt}t~e_unmarked {c |}{res}        788    2.132614    6.119562          0        120
+{txt}~nt_unmarked {c |}{res}        788    6.739848     14.7652          0        168
+{txt}tot~wing_rof {c |}{res}        788    50.78414    70.02405          0        728
+{txt}tot~ting_rof {c |}{res}        788     11.5203    11.72074          0         84
+{txt}{hline 13}{c +}{hline 57}
+to~tfert_rof {c |}{res}        788    5.463198    9.675874          0         84
+{txt}tot~ding_rof {c |}{res}        788     64.4184    98.67568          0       1575
+{txt}to~dfert_rof {c |}{res}        788    5.546954    9.690887          0         84
+{txt}total_~e_rof {c |}{res}        788    3.576142    8.807769          0        120
+{txt}total~nt_rof {c |}{res}        788    6.163071    14.61011          0        168
+{txt}{hline 13}{c +}{hline 57}
+use_spacin~l {c |}{res}        747    .5568942    .4970853          0          1
+{txt}tdqty_1orm~p {c |}{res}        775    .0993548     .299331          0          1
+{txt}{space 1}tdqty_12tsp {c |}{res}        775    .8090323    .3933175          0          1
+{txt}{space 4}tdqty_DK {c |}{res}        775           0           0          0          0
+{txt}td_time_kn~h {c |}{res}        775           0           0          0          0
+{txt}{hline 13}{c +}{hline 57}
+{space 2}spacing_DK {c |}{res}        772    .0660622    .2485518          0          1
+{txt}spacing_l~20 {c |}{res}        772    .0867876     .281706          0          1
+{txt}facilitato~e {c |}{res}        712    8.460674     .935996          4         10
+{txt}facilitato~d {c |}{res}        712    7.630618    1.131229          2         10
+{txt}facilitato~f {c |}{res}        741    6.438596    3.859431          0         99
+{txt}{hline 13}{c +}{hline 57}
+{space 2}group_blue {c |}{res}        771    8.024643    1.300615          1         10
+{txt}group_unma~d {c |}{res}        770    7.238961    1.448748          1         10
+{txt}{space 3}group_rof {c |}{res}        750    6.142667    1.983825          0         10
+{txt}NGO_kick_o~y {c |}{res}        709    .4344147    .4960298          0          1
+{txt}NGO_keep_y~h {c |}{res}        681    .6490455    .4776195          0          1
+{txt}{hline 13}{c +}{hline 57}
+{space 5}dropped {c |}{res}        788           0           0          0          0
+{txt}{space 4}dropped2 {c |}{res}        788           0           0          0          0
+{txt}_est_s2_re~1 {c |}{res}        788    .9593909    .1975083          0          1
+{txt}_est_s2_re~2 {c |}{res}        788    .9593909    .1975083          0          1
+{txt}_est_s2_re~3 {c |}{res}        788    .9517766    .2143739          0          1
+
+{txt}added scalar:
+     e(nondroppedmean) =  {res}.95177665
+
+{txt}      Source {c |}       SS           df       MS      Number of obs   ={res}       993
+{txt}{hline 13}{c +}{hline 34}   F(1, 991)       = {res}     0.20
+{txt}       Model {c |} {res} .019092261         1  .019092261   {txt}Prob > F        ={res}    0.6522
+{txt}    Residual {c |} {res}  93.088662       991  .093934069   {txt}R-squared       ={res}    0.0002
+{txt}{hline 13}{c +}{hline 34}   Adj R-squared   ={res}   -0.0008
+{txt}       Total {c |} {res} 93.1077543       992  .093858623   {txt}Root MSE        =   {res} .30649
+
+{txt}{hline 13}{c TT}{hline 11}{hline 11}{hline 9}{hline 8}{hline 13}{hline 12}
+{col 1}     married{col 14}{c |}      Coef.{col 26}   Std. Err.{col 38}      t{col 46}   P>|t|{col 54}     [95% Con{col 67}f. Interval]
+{hline 13}{c +}{hline 11}{hline 11}{hline 9}{hline 8}{hline 13}{hline 12}
+{space 5}dropped {c |}{col 14}{res}{space 2}-.0102424{col 26}{space 2} .0227187{col 37}{space 1}   -0.45{col 46}{space 3}0.652{col 54}{space 4}-.0548246{col 67}{space 3} .0343399
+{txt}{space 7}_cons {c |}{col 14}{res}{space 2} .8977424{col 26}{space 2}  .011169{col 37}{space 1}   80.38{col 46}{space 3}0.000{col 54}{space 4} .8758248{col 67}{space 3}   .91966
+{txt}{hline 13}{c BT}{hline 11}{hline 11}{hline 9}{hline 8}{hline 13}{hline 12}
+{res}
+{txt}    Variable {c |}        Obs        Mean    Std. Dev.       Min        Max
+{hline 13}{c +}{hline 57}
+respondent~d {c |}{res}        788    6829.675    3962.465        101      13506
+{txt}{space 5}groupid {c |}{res}        788    6824.619    3962.272        100      13500
+{txt}{space 4}training {c |}{res}        788    .4720812     .499537          0          1
+{txt}{space 5}harvest {c |}{res}        788           1           0          1          1
+{txt}{space 2}monitoring {c |}{res}        757           1           0          1          1
+{txt}{hline 13}{c +}{hline 57}
+{space 7}added {c |}{res}          0
+{txt}{space 9}age {c |}{res}        756    43.15079    12.83821         19         90
+{txt}{space 6}gender {c |}{res}        756    .4656085    .4991461          0          1
+{txt}readkiswah~i {c |}{res}        752    .8949468     .306826          0          1
+{txt}writekiswa~i {c |}{res}        752    .8776596    .3278967          0          1
+{txt}{hline 13}{c +}{hline 57}
+readandwrite {c |}{res}        751    .8774967    .3280847          0          1
+{txt}{space 3}edu_years {c |}{res}        750       8.732    3.339118          0         14
+{txt}edu_years_~e {c |}{res}        660         8.9    3.106457          0         14
+{txt}{space 5}married {c |}{res}        753    .8977424    .3031882          0          1
+{txt}size_house~d {c |}{res}        754    6.949602    2.683402          1         20
+{txt}{hline 13}{c +}{hline 57}
+{space 2}land_owned {c |}{res}        747    3.475571    3.798668          0         45
+{txt}value_anim~s {c |}{res}        757    39230.54    44053.87          0     597500
+{txt}{space 1}value_tools {c |}{res}        756    4944.435    7799.618          0     163980
+{txt}value_hous~s {c |}{res}        757    18969.26    20737.97          0     245930
+{txt}ever_anyfert {c |}{res}        643    .8724728    .3338223          0          1
+{txt}{hline 13}{c +}{hline 57}
+{space 1}ever_hybrid {c |}{res}        637    .9466248    .2249572          0          1
+{txt}{space 1}ever_manure {c |}{res}        642    .7227414    .4479943          0          1
+{txt}ever_pesti~e {c |}{res}        641    .0280811    .1653337          0          1
+{txt}lastyr_any~t {c |}{res}        645    .7348837    .4417377          0          1
+{txt}lastyr_hyb~d {c |}{res}        646    .9179567    .2746434          0          1
+{txt}{hline 13}{c +}{hline 57}
+lastyr_man~e {c |}{res}        642     .529595    .4995125          0          1
+{txt}lastyr_pes~e {c |}{res}        632    .0189873    .1365882          0          1
+{txt}{space 3}acres_rof {c |}{res}        722    1.479457     1.47146          0       13.5
+{txt}revenue_blue {c |}{res}        763      7672.9    3008.429          0   18297.53
+{txt}revenue_un~d {c |}{res}        761    6237.605    3046.195          0   17238.99
+{txt}{hline 13}{c +}{hline 57}
+kg_tdfert_~e {c |}{res}        770     12.3539     1.35879          0         25
+{txt}kg_plantfe~e {c |}{res}        737    11.32225    3.320426          0         25
+{txt}packets_hy~e {c |}{res}        742    1.376456    .4753537          0         10
+{txt}kg_tdfert_~d {c |}{res}        768    8.076172    7.176649          0         75
+{txt}kg_plantfe~d {c |}{res}        732    6.255396    6.360199          0         25
+{txt}{hline 13}{c +}{hline 57}
+packets_hy~d {c |}{res}        738    1.329417    .5889743          0         10
+{txt}kg_tdfert_~f {c |}{res}        663    20.17873    35.43888          0        300
+{txt}kg_plantfe~f {c |}{res}        708    30.09958    71.41813          0       1000
+{txt}packets_hy~f {c |}{res}        715    5.157692    5.507797          0         60
+{txt}to~wing_blue {c |}{res}        788    19.28902    26.49476          0        300
+{txt}{hline 13}{c +}{hline 57}
+to~ting_blue {c |}{res}        788     7.91434    5.195843          0         32
+{txt}t~tfert_blue {c |}{res}        788    6.740799    5.074727          0         39
+{txt}to~ding_blue {c |}{res}        788     34.5066    28.07186          0        320
+{txt}t~dfert_blue {c |}{res}        788    7.074873    6.360274          0         48
+{txt}total~e_blue {c |}{res}        788    .5507614      2.6625          0         30
+{txt}{hline 13}{c +}{hline 57}
+tota~nt_blue {c |}{res}        788     7.32868    15.79926          0        168
+{txt}total_time.. {c |}{res}        788    18.55425    24.85319          0        300
+{txt}total_time.. {c |}{res}        788    7.645305      5.1519          0         32
+{txt}total_time.. {c |}{res}        788    4.549492    5.822018          0         80
+{txt}total_time.. {c |}{res}        788    33.69036    27.42008          0        320
+{txt}{hline 13}{c +}{hline 57}
+total_time.. {c |}{res}        788    4.926396    6.094526          0         50
+{txt}t~e_unmarked {c |}{res}        788    2.132614    6.119562          0        120
+{txt}~nt_unmarked {c |}{res}        788    6.739848     14.7652          0        168
+{txt}tot~wing_rof {c |}{res}        788    50.78414    70.02405          0        728
+{txt}tot~ting_rof {c |}{res}        788     11.5203    11.72074          0         84
+{txt}{hline 13}{c +}{hline 57}
+to~tfert_rof {c |}{res}        788    5.463198    9.675874          0         84
+{txt}tot~ding_rof {c |}{res}        788     64.4184    98.67568          0       1575
+{txt}to~dfert_rof {c |}{res}        788    5.546954    9.690887          0         84
+{txt}total_~e_rof {c |}{res}        788    3.576142    8.807769          0        120
+{txt}total~nt_rof {c |}{res}        788    6.163071    14.61011          0        168
+{txt}{hline 13}{c +}{hline 57}
+use_spacin~l {c |}{res}        747    .5568942    .4970853          0          1
+{txt}tdqty_1orm~p {c |}{res}        775    .0993548     .299331          0          1
+{txt}{space 1}tdqty_12tsp {c |}{res}        775    .8090323    .3933175          0          1
+{txt}{space 4}tdqty_DK {c |}{res}        775           0           0          0          0
+{txt}td_time_kn~h {c |}{res}        775           0           0          0          0
+{txt}{hline 13}{c +}{hline 57}
+{space 2}spacing_DK {c |}{res}        772    .0660622    .2485518          0          1
+{txt}spacing_l~20 {c |}{res}        772    .0867876     .281706          0          1
+{txt}facilitato~e {c |}{res}        712    8.460674     .935996          4         10
+{txt}facilitato~d {c |}{res}        712    7.630618    1.131229          2         10
+{txt}facilitato~f {c |}{res}        741    6.438596    3.859431          0         99
+{txt}{hline 13}{c +}{hline 57}
+{space 2}group_blue {c |}{res}        771    8.024643    1.300615          1         10
+{txt}group_unma~d {c |}{res}        770    7.238961    1.448748          1         10
+{txt}{space 3}group_rof {c |}{res}        750    6.142667    1.983825          0         10
+{txt}NGO_kick_o~y {c |}{res}        709    .4344147    .4960298          0          1
+{txt}NGO_keep_y~h {c |}{res}        681    .6490455    .4776195          0          1
+{txt}{hline 13}{c +}{hline 57}
+{space 5}dropped {c |}{res}        788           0           0          0          0
+{txt}{space 4}dropped2 {c |}{res}        788           0           0          0          0
+{txt}_est_s2_re~1 {c |}{res}        788    .9593909    .1975083          0          1
+{txt}_est_s2_re~2 {c |}{res}        788    .9593909    .1975083          0          1
+{txt}_est_s2_re~3 {c |}{res}        788    .9517766    .2143739          0          1
+{txt}{hline 13}{c +}{hline 57}
+_est_s2_re~4 {c |}{res}        788    .9555838    .2061489          0          1
+
+{txt}added scalar:
+     e(nondroppedmean) =  {res}.95558376
+{txt}
+{com}. 
+. estout s2_reg_* using "output/Section2_table2_raw.csv", replace style(tab) delimiter(",") mlabel(,depvars) collabel(none) label ///
+>         drop(_cons) stats(nondroppedmean N, labels("Non-dropped mean" "Obs") fmt(%9.2f %9.0fc)) starlevels(* 0.10 ** 0.05 *** 0.01) ///
+>         cells("b(fmt(%9.2f) star)" "se(fmt(%9.2f) par)") 
+{res}{txt}(output written to {browse  `"output/Section2_table2_raw.csv"'})
+
+{com}. 
+. // Checking attrition balance
+. reg dropped training
+
+{txt}      Source {c |}       SS           df       MS      Number of obs   ={res}     1,155
+{txt}{hline 13}{c +}{hline 34}   F(1, 1153)      = {res}     4.94
+{txt}       Model {c |} {res} 1.06867963         1  1.06867963   {txt}Prob > F        ={res}    0.0264
+{txt}    Residual {c |} {res} 249.317468     1,153   .21623371   {txt}R-squared       ={res}    0.0043
+{txt}{hline 13}{c +}{hline 34}   Adj R-squared   ={res}    0.0034
+{txt}       Total {c |} {res} 250.386147     1,154  .216972398   {txt}Root MSE        =   {res} .46501
+
+{txt}{hline 13}{c TT}{hline 11}{hline 11}{hline 9}{hline 8}{hline 13}{hline 12}
+{col 1}     dropped{col 14}{c |}      Coef.{col 26}   Std. Err.{col 38}      t{col 46}   P>|t|{col 54}     [95% Con{col 67}f. Interval]
+{hline 13}{c +}{hline 11}{hline 11}{hline 9}{hline 8}{hline 13}{hline 12}
+{space 4}training {c |}{col 14}{res}{space 2} .0608402{col 26}{space 2} .0273671{col 37}{space 1}    2.22{col 46}{space 3}0.026{col 54}{space 4} .0071453{col 67}{space 3}  .114535
+{txt}{space 7}_cons {c |}{col 14}{res}{space 2} .2876712{col 26}{space 2} .0192422{col 37}{space 1}   14.95{col 46}{space 3}0.000{col 54}{space 4} .2499175{col 67}{space 3} .3254249
+{txt}{hline 13}{c BT}{hline 11}{hline 11}{hline 9}{hline 8}{hline 13}{hline 12}
+{res}{txt}
+{com}. 
+. log close
+      {txt}name:  {res}<unnamed>
+       {txt}log:  {res}/Users/DSP/Google Drive/UCSC/Teaching/Econ120_F20/Analysis/doFiles/Econ120_F20_Section2.smcl
+  {txt}log type:  {res}smcl
+ {txt}closed on:  {res}14 Oct 2020, 01:40:51
+{txt}{.-}
+{smcl}
+{txt}{sf}{ul off}
