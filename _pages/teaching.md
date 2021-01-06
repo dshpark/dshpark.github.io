@@ -21,5 +21,8 @@ author_profile: true
 - Spring 2019 (Justin Marion)
 - Spring 2020 (Justin Marion)
 
+### ECON 217: Applied Econometric Analysis
+- [Winter 2021 (Jessie Q. Li)](/econ217_w21/)
+
 
 
