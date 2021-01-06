@@ -22,7 +22,7 @@ author_profile: true
 ### Fall 2017
 - ECON 220A: Development Economics I (Jonathan M. Robinson) 
 - ECON 240A: International Trade I (Alan C. Spearot) 
-CMPS 242: Machine Learning (Manfred K. Warmuth) 
+- CMPS 242: Machine Learning (Manfred K. Warmuth) 
 
 ### Winter 2018
 - ECON 238: Market Design: Theory and Pragmatics (Daniel Friedman) 
