@@ -15,7 +15,7 @@ author_profile: true
 - Spring 2018 (Carlos E. Dobkin)
 
 ### ECON 120: Development Economics
-- [Fall 2020 (Jonathan M. Robinson)](/econ120_f20/)
+- Fall 2020 (Jonathan M. Robinson)
 
 ### ECON 201: Applications in Microeconomics
 - Spring 2019 (Justin Marion)
