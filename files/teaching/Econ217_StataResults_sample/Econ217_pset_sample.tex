@@ -1,0 +1,135 @@
+\documentclass[letterpaper]{article}
+\usepackage[left = 1 in, right = 1 in, top = 1 in, bottom = 1 in]{geometry}
+\usepackage[utf8]{inputenc}
+\usepackage{amsmath,amsfonts,amsthm,amssymb,bm}
+\everymath{\displaystyle}
+\usepackage{graphicx}
+\usepackage{enumerate}
+\usepackage{float}
+\usepackage{soul,color,xcolor}
+\usepackage{setspace}
+\usepackage{expdlist}
+\usepackage[para,online,flushleft]{threeparttable}
+\usepackage{booktabs}
+
+\begin{document}
+\begin{spacing}{1.2}
+
+\section*{Econ 217: Suggested formats for compiling Stata results}
+
+
+
+\subsection*{Option 1: Copy-pasting raw Stata results}
+
+In LaTeX, you can use the \texttt{verbatim} environment, as below. If you’re using Microsoft Word, Google Docs, or any other word processor, you can use a fixed-width/monospaced font (e.g. Courier). Otherwise, the line alignment would collapse and the tables would be difficult to read. 
+
+	\begin{verbatim}
+	. logit bwght_abovemed cigs faminc       
+
+	Iteration 0:   log likelihood = -960.00655  
+	Iteration 1:   log likelihood = -944.75628  
+	Iteration 2:   log likelihood = -944.69289  
+	Iteration 3:   log likelihood = -944.69289  
+
+	Logistic regression                             Number of obs     =      1,388
+	                                                LR chi2(2)        =      30.63
+	                                                Prob > chi2       =     0.0000
+	Log likelihood = -944.69289                     Pseudo R2         =     0.0160
+
+	--------------------------------------------------------------------------------
+	bwght_abovemed |      Coef.   Std. Err.      z    P>|z|     [95% Conf. Interval]
+	---------------+----------------------------------------------------------------
+	          cigs |  -.0433768    .010712    -4.05   0.000    -.0643719   -.0223816
+	        faminc |   .0078107   .0029402     2.66   0.008     .0020479    .0135734
+	         _cons |  -.2533753   .1056431    -2.40   0.016     -.460432   -.0463185
+	--------------------------------------------------------------------------------
+
+	. margins, dydx(*)                                       
+
+	Average marginal effects                        Number of obs     =      1,388
+	Model VCE    : OIM
+
+	Expression   : Pr(bwght_abovemed), predict()
+	dy/dx w.r.t. : cigs faminc
+
+	------------------------------------------------------------------------------
+	             |            Delta-method
+	             |      dy/dx   Std. Err.      z    P>|z|     [95% Conf. Interval]
+	-------------+----------------------------------------------------------------
+	        cigs |  -.0105828   .0025573    -4.14   0.000     -.015595   -.0055706
+	      faminc |   .0019056     .00071     2.68   0.007      .000514    .0032972
+	------------------------------------------------------------------------------
+
+	. margins, dydx(*) atmeans                    
+
+	Conditional marginal effects                    Number of obs     =      1,388
+	Model VCE    : OIM
+
+	Expression   : Pr(bwght_abovemed), predict()
+	dy/dx w.r.t. : cigs faminc
+	at           : cigs            =    2.087176 (mean)
+	               faminc          =    29.02666 (mean)
+
+	------------------------------------------------------------------------------
+	             |            Delta-method
+	             |      dy/dx   Std. Err.      z    P>|z|     [95% Conf. Interval]
+	-------------+----------------------------------------------------------------
+	        cigs |   -.010807   .0026665    -4.05   0.000    -.0160333   -.0055807
+	      faminc |    .001946   .0007326     2.66   0.008     .0005102    .0033818
+	------------------------------------------------------------------------------
+
+
+	\end{verbatim}
+
+\subsection*{Option 2: Creating tables}
+
+You could export tables directly from Stata as below (high fixed cost, low variable cost). However, there is a middle ground where you could manually format the tables in Excel or Google Sheets, and manually copy-paste the relevant numbers every time (low fixed cost, high variable cost). 
+
+	\begin{table}[H] 
+	\caption{Probability of Above-median Birthweight  - Logit}
+	\centering
+	\renewcommand\arraystretch{1.25}        
+	% \setlength{\tabcolsep}{3pt}
+	\begin{threeparttable}
+	\footnotesize
+	\input{tex_raw/example_logit}
+	    \begin{tablenotes}
+	    \footnotesize 
+        Note: Standard errors in parentheses. *, **, and *** indicate significance at 10\%, 5\%, and 1\%, respectively. \\
+	    \end{tablenotes}
+	\end{threeparttable}
+	\end{table}
+
+	\begin{table}[H] 
+	\caption{Average Marginal Effects on Birthweight Classifications - Multinomial Logit}
+	\centering
+	\renewcommand\arraystretch{1.25}        
+	% \setlength{\tabcolsep}{3pt}
+	\begin{threeparttable}
+	\footnotesize
+	\input{tex_raw/example_mlogit}
+	    \begin{tablenotes}
+	    \footnotesize 
+	        Note: Standard errors in parentheses. *, **, and *** indicate significance at 10\%, 5\%, and 1\%, respectively. \\
+	    \end{tablenotes}
+	\end{threeparttable}
+	\end{table}
+
+\begin{table}[H] 
+	\caption{Average Marginal Effects on Birthweight Classifications - Ordered Logit}
+	\centering
+	\renewcommand\arraystretch{1.25}        
+	% \setlength{\tabcolsep}{3pt}
+	\begin{threeparttable}
+	\footnotesize
+	\input{tex_raw/example_ologit}
+	    \begin{tablenotes}
+	    \footnotesize 
+	        Note: Standard errors in parentheses. *, **, and *** indicate significance at 10\%, 5\%, and 1\%, respectively. \\
+	    \end{tablenotes}
+	\end{threeparttable}
+	\end{table}
+
+
+\end{spacing}
+\end{document}
