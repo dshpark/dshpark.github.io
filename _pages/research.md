@@ -6,11 +6,11 @@ author_profile: true
 
 <h2> Working papers </h2>
 
-- ["Did COVID-19 Market Disruptions Disrupt Food Security? Evidence from Households in Rural Liberia and Malawi"](/files/COVID_malawi_liberia.pdf) (with [Shilpa Aggarwal](http://www.isb.edu/faculty/shilpa_aggarwal/), [Dahyeon Jeong](https://people.ucsc.edu/~dajeong/), Naresh Kumar, [Jonathan Robinson](https://people.ucsc.edu/~jmrtwo/), and [Alan Spearot](https://people.ucsc.edu/~aspearot/))
+- ["Did COVID-19 Market Disruptions Disrupt Food Security? Evidence from Households in Rural Liberia and Malawi"](/files/COVID&food_security.pdf) (with [Shilpa Aggarwal](http://www.isb.edu/faculty/shilpa_aggarwal/), [Dahyeon Jeong](https://people.ucsc.edu/~dajeong/), Naresh Kumar, [Jonathan Robinson](https://people.ucsc.edu/~jmrtwo/), and [Alan Spearot](https://people.ucsc.edu/~aspearot/))
 	<details>
 	  <summary>Abstract</summary>
 	  
-	  We quantify the effect of market disruptions due to COVID-19 on the lives of households in rural areas of Liberia and Malawi, utilizing panel data from phone surveys that were implemented as part of a randomized cash transfer experiment. The surveys began collection several months before the pandemic and have continued throughout it. The household survey included a consistent set of internationally accepted and validated questions on food security (the household dietary diversity score, the household hunger scale, and the food consumption score). In both countries, market activity was severely disrupted and we observe large declines in income among market vendors, but we find no evidence of declines in food security for households in the short run. Even though we observe no adverse effects of the lockdowns on food security among the control group, cash transfers improved dietary quality and quantity over the low levels observed at baseline.
+	  We use data collected from panel phone surveys to quantify the effect of market disruptions due to the COVID-19 lockdowns on food security of households in rural Liberia and Malawi. We estimate effects using two distinct empirical approaches: (a) an event study around the date of the lockdowns (March to July 2020), and (b) a difference-in-differences analysis comparing the lockdown period in 2020 to the same months in 2021, which helps us control for any seasonal effects. In both countries, market activity was severely disrupted and we observe declines in expenditures. However, we find no evidence of declines in food security.
 	</details>
 
 
