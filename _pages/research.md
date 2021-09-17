@@ -6,10 +6,8 @@ author_profile: true
 
 <h2> Working papers </h2>
 
-- ["Did COVID-19 Market Disruptions Disrupt Food Security? Evidence from Households in Rural Liberia and Malawi"](/files/COVID&food_security.pdf) (with [Shilpa Aggarwal](https://aggarwalshilpa.wixsite.com/home), [Dahyeon Jeong](https://dahyeonjeong.com/), [Naresh Kumar](https://sites.google.com/ucsc.edu/nkumar/), [Jonathan Robinson](https://people.ucsc.edu/~jmrtwo/), and [Alan Spearot](https://people.ucsc.edu/~aspearot/))
-	
+- ["Did COVID-19 Market Disruptions Disrupt Food Security? Evidence from Households in Rural Liberia and Malawi"](/files/COVID&food_security.pdf) (with [Shilpa Aggarwal](https://aggarwalshilpa.wixsite.com/home), [Dahyeon Jeong](https://dahyeonjeong.com/), [Naresh Kumar](https://sites.google.com/ucsc.edu/nkumar/), [Jonathan Robinson](https://people.ucsc.edu/~jmrtwo/), and [Alan Spearot](https://people.ucsc.edu/~aspearot/)) <br>
 	Revise & Resubmit at *Food Policy*.
-
 	<details>
 	  <summary>Abstract</summary>
 	  
