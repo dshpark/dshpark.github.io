@@ -6,7 +6,7 @@ author_profile: true
 
 <h2> Working papers </h2>
 
-- ["Did COVID-19 Market Disruptions Disrupt Food Security? Evidence from Households in Rural Liberia and Malawi"](/files/COVID&food_security.pdf) (with [Shilpa Aggarwal](http://www.isb.edu/faculty/shilpa_aggarwal/), [Dahyeon Jeong](https://people.ucsc.edu/~dajeong/), Naresh Kumar, [Jonathan Robinson](https://people.ucsc.edu/~jmrtwo/), and [Alan Spearot](https://people.ucsc.edu/~aspearot/))
+- ["Did COVID-19 Market Disruptions Disrupt Food Security? Evidence from Households in Rural Liberia and Malawi"](/files/COVID&food_security.pdf) (with [Shilpa Aggarwal](https://aggarwalshilpa.wixsite.com/home), [Dahyeon Jeong](https://dahyeonjeong.com/), [Naresh Kumar](https://sites.google.com/ucsc.edu/nkumar/), [Jonathan Robinson](https://people.ucsc.edu/~jmrtwo/), and [Alan Spearot](https://people.ucsc.edu/~aspearot/))
 	<details>
 	  <summary>Abstract</summary>
 	  
@@ -14,9 +14,9 @@ author_profile: true
 	</details>
 
 
-<h2> Projects in the field </h2>
+<h2> Works in progress </h2>
 
-- "Reducing Intimate Partner Violence of Disadvantaged Women in Monrovia: An Experiment with Red Cross's Women Training and Integration Program" (with Naresh Kumar) 
+- "Reducing Intimate Partner Violence of Disadvantaged Women in Monrovia: An Experiment with Red Cross's Women Training and Integration Program" (with [Naresh Kumar](https://sites.google.com/ucsc.edu/nkumar/)) 
 	<details>
 	  <summary>Abstract</summary>
 	  
@@ -25,7 +25,7 @@ author_profile: true
 
 	[[AEA RCT Registry]](https://www.socialscienceregistry.org/trials/4488)
 
-- "The Effect of Cash Transfers and Market Access on Households in Rural Liberia and Malawi" (with [Shilpa Aggarwal](http://www.isb.edu/faculty/shilpa_aggarwal/), [Jenny Aker](https://sites.tufts.edu/jennyaker/), [Dahyeon Jeong](https://people.ucsc.edu/~dajeong/), Naresh Kumar, [Jonathan Robinson](https://people.ucsc.edu/~jmrtwo/), and [Alan Spearot](https://people.ucsc.edu/~aspearot/))
+- "The Effect of Cash Transfers and Market Access on Households in Rural Liberia and Malawi" (with [Shilpa Aggarwal](https://aggarwalshilpa.wixsite.com/home), [Jenny Aker](https://sites.tufts.edu/jennyaker/), [Dahyeon Jeong](https://dahyeonjeong.com/), [Naresh Kumar](https://sites.google.com/ucsc.edu/nkumar/), [Jonathan Robinson](https://people.ucsc.edu/~jmrtwo/), and [Alan Spearot](https://people.ucsc.edu/~aspearot/))
 	<details>
 	  <summary>Abstract</summary>
 	  
@@ -34,7 +34,8 @@ author_profile: true
 
 	[[AEA RCT Registry]](https://www.socialscienceregistry.org/trials/4869)
 
+- "Private but Misunderstood? Evaluating the Effects of Self-Interviewing to Measure Intimate Partner Violence in a Cash Transfer Experiment" (with [Shilpa Aggarwal](https://aggarwalshilpa.wixsite.com/home), [Jenny Aker](https://sites.tufts.edu/jennyaker/), [Dahyeon Jeong](https://dahyeonjeong.com/), [Naresh Kumar](https://sites.google.com/ucsc.edu/nkumar/), [Jonathan Robinson](https://people.ucsc.edu/~jmrtwo/), and [Alan Spearot](https://people.ucsc.edu/~aspearot/))
 
+- “Input Subsidies, Remoteness, and Input Adoption: Evidence from Randomized Agricultural Subsidies in Malawi,” (with [Shilpa Aggarwal](https://aggarwalshilpa.wixsite.com/home), [Dahyeon Jeong](https://dahyeonjeong.com/), [Naresh Kumar](https://sites.google.com/ucsc.edu/nkumar/), [Jonathan Robinson](https://people.ucsc.edu/~jmrtwo/), and [Alan Spearot](https://people.ucsc.edu/~aspearot/))
 
-
-
+- “Remoteness and Input Market Access in rural Liberia, Malawi, and Tanzania,” (with [Shilpa Aggarwal](https://aggarwalshilpa.wixsite.com/home), [Dahyeon Jeong](https://dahyeonjeong.com/), Rolly Kapoor, [Naresh Kumar](https://sites.google.com/ucsc.edu/nkumar/), [Jonathan Robinson](https://people.ucsc.edu/~jmrtwo/), and [Alan Spearot](https://people.ucsc.edu/~aspearot/))
