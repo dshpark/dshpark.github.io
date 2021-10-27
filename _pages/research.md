@@ -6,7 +6,7 @@ author_profile: true
 
 <h2> Working papers </h2>
 
-- "Reducing Intimate Partner Violence of Disadvantaged Women in Monrovia: An Experiment with Red Cross's Women Training and Integration Program" (with [Naresh Kumar](https://sites.google.com/ucsc.edu/nkumar/)) <br>
+- "Reducing Intimate Partner Violence: A Randomized Evaluation of a Multifaceted Female Empowerment Program in Urban Liberia" (with [Naresh Kumar](https://sites.google.com/ucsc.edu/nkumar/)) <br>
 	Job Market Paper.
 	<details>
 	  <summary>Abstract</summary>
