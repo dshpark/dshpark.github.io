@@ -15,7 +15,4 @@ I am  a Ph.D. Candidate at the Economics Department of University of California,
 
 [[Curriculum Vitae]](/files/CV_DavidSunghoPark.pdf)
 
-Economics Department, University of California, Santa Cruz  
-1156 High Street, Santa Cruz, CA 95064
-
-[davidspark [at] ucsc [dot] edu](mailto:davidspark@ucsc.edu)
+Email: [davidspark [at] ucsc [dot] edu](mailto:davidspark@ucsc.edu)
