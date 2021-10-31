@@ -11,6 +11,8 @@ redirect_from:
 
 I am  a Ph.D. Candidate at the Economics Department of University of California, Santa Cruz (UCSC), doing Development Economics with ongoing field projects in Liberia and Malawi. 
 
+*I am on the job market in the 2021-2022 academic year.*
+
 [[Curriculum Vitae]](/files/CV_DavidSunghoPark.pdf)
 
 Economics Department, University of California, Santa Cruz  
