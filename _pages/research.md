@@ -28,7 +28,7 @@ author_profile: true
 	</details>
 
 
-- **"Exhaustive or Exhausting?  Evidence on Respondent Fatigue in Long Surveys"** (with [Shilpa Aggarwal](https://aggarwalshilpa.wixsite.com/home), [Dahyeon Jeong](https://dahyeonjeong.com/), [Naresh Kumar](https://sites.google.com/ucsc.edu/nkumar/), [Jonathan Robinson](https://people.ucsc.edu/~jmrtwo/), and [Alan Spearot](https://people.ucsc.edu/~aspearot/)).
+- **"Exhaustive or Exhausting? Evidence on Respondent Fatigue in Long Surveys"** (with [Shilpa Aggarwal](https://aggarwalshilpa.wixsite.com/home), [Dahyeon Jeong](https://dahyeonjeong.com/), [Naresh Kumar](https://sites.google.com/ucsc.edu/nkumar/), [Jonathan Robinson](https://people.ucsc.edu/~jmrtwo/), and [Alan Spearot](https://people.ucsc.edu/~aspearot/)).
 	<details>
 	  <summary>Abstract</summary>
 	  
