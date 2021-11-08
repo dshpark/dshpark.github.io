@@ -36,6 +36,9 @@ author_profile: true
 	</details>
 
 
+- **"The Impact of Digital Credit in Developing Economies: A Review of Recent Evidence"** (with [Joshua Blumenstock](https://jblumenstock.com/) and [Jonathan Robinson](https://people.ucsc.edu/~jmrtwo/)).
+
+
 <h2> Works in progress </h2>
 
 - **"The Effect of Cash Transfers and Market Access on Households in Rural Liberia and Malawi"** (with [Shilpa Aggarwal](https://aggarwalshilpa.wixsite.com/home), [Jenny Aker](https://sites.tufts.edu/jennyaker/), [Dahyeon Jeong](https://dahyeonjeong.com/), [Naresh Kumar](https://sites.google.com/ucsc.edu/nkumar/), [Jonathan Robinson](https://people.ucsc.edu/~jmrtwo/), and [Alan Spearot](https://people.ucsc.edu/~aspearot/)). [[AEA RCT Registry]](https://www.socialscienceregistry.org/trials/4869). <br>
