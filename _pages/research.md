@@ -7,11 +7,12 @@ author_profile: true
 <h2> Working papers </h2>
 
 "[**Reducing Intimate Partner Violence: Evidence from a Multifaceted Female Empowerment Program in Urban Liberia**](/files/RC_paper.pdf)" (with [Naresh Kumar](https://sites.google.com/ucsc.edu/nkumar/)). [[AEA RCT Registry]](https://www.socialscienceregistry.org/trials/4488). ***Job Market Paper***. 
-</details> <br>
-  <summary markdown="span">Abstract</summary>
+<details> 
+  <summary>Abstract</summary>
 
   Intimate partner violence (IPV) is a global public health challenge associated with adverse health effects and economic costs to both survivors and society, but there is limited evidence on how it can be effectively prevented or reduced. Designing and evaluating interventions targeted at IPV is challenging because the underlying factors of IPV are so intertwined that it can be explained only by a variety of sociocultural factors in addition to personal and interpersonal elements. This paper evaluates a randomized controlled trial of a multifaceted female empowerment program in Monrovia, Liberia, where the baseline IPV prevalence is particularly high. The program intervention includes intensive psychosocial therapy and vocational skills training throughout a full year. About 12 months after program completion, we find the program significantly reduced the proportion of women who experienced emotional, physical, and sexual IPV by 10-26 percentage points (from control bases of 24-62 percent). While there are multiple pathways through which IPV could be impacted, one channel is that the business training was highly effective: labor supply increased by 37 percent and expenditure by 49 percent. While one focus of the program is psychological empowerment, we find positive but statistically insignificant effects on distress and happiness indices. We also find improvements in social norms around IPV: perceived justifiability of IPV reduced by 0.3 standard deviations.
-</details> <br>
+  
+</details> 
 
 "[**Did COVID-19 Market Disruptions Disrupt Food Security? Evidence from Households in Rural Liberia and Malawi**](/files/COVID&food_security.pdf)" (with [Shilpa Aggarwal](https://aggarwalshilpa.wixsite.com/home), [Dahyeon Jeong](https://dahyeonjeong.com/), [Naresh Kumar](https://sites.google.com/ucsc.edu/nkumar/), [Jonathan Robinson](https://people.ucsc.edu/~jmrtwo/), and [Alan Spearot](https://people.ucsc.edu/~aspearot/)). Revise & Resubmit at *Food Policy*. 
 <details>
