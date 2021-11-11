@@ -6,8 +6,7 @@ author_profile: true
 
 <h2> Working papers </h2>
 
-"[**Reducing Intimate Partner Violence: Evidence from a Multifaceted Female Empowerment Program in Urban Liberia**](/files/RC_paper.pdf)" (with [Naresh Kumar](https://sites.google.com/ucsc.edu/nkumar/)). [[AEA RCT Registry]](https://www.socialscienceregistry.org/trials/4488). ***Job Market Paper***. 
-
+"[**Reducing Intimate Partner Violence: Evidence from a Multifaceted Female Empowerment Program in Urban Liberia**](/files/RC_paper.pdf)" (with [Naresh Kumar](https://sites.google.com/ucsc.edu/nkumar/)). [[AEA RCT Registry]](https://www.socialscienceregistry.org/trials/4488). ***Job Market Paper***. <br>
 <details>
   <summary>Abstract</summary>
 
@@ -15,7 +14,6 @@ author_profile: true
 </details>
 
 "[**Did COVID-19 Market Disruptions Disrupt Food Security? Evidence from Households in Rural Liberia and Malawi**](/files/COVID&food_security.pdf)" (with [Shilpa Aggarwal](https://aggarwalshilpa.wixsite.com/home), [Dahyeon Jeong](https://dahyeonjeong.com/), [Naresh Kumar](https://sites.google.com/ucsc.edu/nkumar/), [Jonathan Robinson](https://people.ucsc.edu/~jmrtwo/), and [Alan Spearot](https://people.ucsc.edu/~aspearot/)). Revise & Resubmit at *Food Policy*. <br>
-
 <details>
   <summary>Abstract</summary>
 
@@ -34,7 +32,7 @@ author_profile: true
 **"Exhaustive or Exhausting? Evidence on Respondent Fatigue in Long Surveys"** (with [Shilpa Aggarwal](https://aggarwalshilpa.wixsite.com/home), [Dahyeon Jeong](https://dahyeonjeong.com/), [Naresh Kumar](https://sites.google.com/ucsc.edu/nkumar/), [Jonathan Robinson](https://people.ucsc.edu/~jmrtwo/), and [Alan Spearot](https://people.ucsc.edu/~aspearot/)).
 <details>
   <summary>Abstract</summary> 
-  
+
   Living standards measurement surveys require the sustained attention of a respondent for several hours. We quantify survey fatigue in a measurement experiment in rural Liberia and Malawi in which we randomized the order in which various questions appeared in a 2-3 hour-long in-person baseline and endline surveys. The surveys were conducted as part of an evaluation of cash transfers. For an extra 30 minutes of survey time, we find that respondents are about 5-10% more likely to skip a question. Because they skip more questions, the total monetary value of aggregated categories such as assets or expenditures decline. This effect is quite large for some categories: for example, an extra 30 minutes lowers food expenditures by 12.5% and the value of transfers received by 22% and the value of transfers given by 39%. This decrease implies that cash treatment effects will be attenuated for outcomes measured later in the survey, and this is what we find.
 </details>
 
