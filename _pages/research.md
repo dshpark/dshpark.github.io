@@ -10,16 +10,20 @@ author_profile: true
 
 <details>
   <summary>Abstract</summary>
+
   Intimate partner violence (IPV) is a global public health challenge associated with adverse health effects and economic costs to both survivors and society, but there is limited evidence on how it can be effectively prevented or reduced. Designing and evaluating interventions targeted at IPV is challenging because the underlying factors of IPV are so intertwined that it can be explained only by a variety of sociocultural factors in addition to personal and interpersonal elements. This paper evaluates a randomized controlled trial of a multifaceted female empowerment program in Monrovia, Liberia, where the baseline IPV prevalence is particularly high. The program intervention includes intensive psychosocial therapy and vocational skills training throughout a full year. About 12 months after program completion, we find the program significantly reduced the proportion of women who experienced emotional, physical, and sexual IPV by 10-26 percentage points (from control bases of 24-62 percent). While there are multiple pathways through which IPV could be impacted, one channel is that the business training was highly effective: labor supply increased by 37 percent and expenditure by 49 percent. While one focus of the program is psychological empowerment, we find positive but statistically insignificant effects on distress and happiness indices. We also find improvements in social norms around IPV: perceived justifiability of IPV reduced by 0.3 standard deviations.
 </details>
 
 "[**Did COVID-19 Market Disruptions Disrupt Food Security? Evidence from Households in Rural Liberia and Malawi**](/files/COVID&food_security.pdf)" (with [Shilpa Aggarwal](https://aggarwalshilpa.wixsite.com/home), [Dahyeon Jeong](https://dahyeonjeong.com/), [Naresh Kumar](https://sites.google.com/ucsc.edu/nkumar/), [Jonathan Robinson](https://people.ucsc.edu/~jmrtwo/), and [Alan Spearot](https://people.ucsc.edu/~aspearot/)). Revise & Resubmit at *Food Policy*. <br>
+
 <details>
   <summary>Abstract</summary>
+
   We use data collected from panel phone surveys to quantify the effect of market disruptions due to the COVID-19 lockdowns on food security of households in rural Liberia and Malawi. We estimate effects using two distinct empirical approaches: (a) an event study around the date of the lockdowns (March to July 2020), and (b) a difference-in-differences analysis comparing the lockdown period in 2020 to the same months in 2021, which helps us control for any seasonal effects. In both countries, market activity was severely disrupted and we observe declines in expenditures. However, we find no evidence of declines in food security.
 </details>
 
 **"Private but Misunderstood? Evidence on Measuring Intimate Partner Violence via Self-Interviewing in Rural Liberia and Malawi"** (with [Shilpa Aggarwal](https://aggarwalshilpa.wixsite.com/home), [Dahyeon Jeong](https://dahyeonjeong.com/), [Naresh Kumar](https://sites.google.com/ucsc.edu/nkumar/), [Jonathan Robinson](https://people.ucsc.edu/~jmrtwo/), and [Alan Spearot](https://people.ucsc.edu/~aspearot/)).
+
 <details>
   <summary>Abstract</summary> 
 
@@ -30,6 +34,7 @@ author_profile: true
 **"Exhaustive or Exhausting? Evidence on Respondent Fatigue in Long Surveys"** (with [Shilpa Aggarwal](https://aggarwalshilpa.wixsite.com/home), [Dahyeon Jeong](https://dahyeonjeong.com/), [Naresh Kumar](https://sites.google.com/ucsc.edu/nkumar/), [Jonathan Robinson](https://people.ucsc.edu/~jmrtwo/), and [Alan Spearot](https://people.ucsc.edu/~aspearot/)).
 <details>
   <summary>Abstract</summary> 
+  
   Living standards measurement surveys require the sustained attention of a respondent for several hours. We quantify survey fatigue in a measurement experiment in rural Liberia and Malawi in which we randomized the order in which various questions appeared in a 2-3 hour-long in-person baseline and endline surveys. The surveys were conducted as part of an evaluation of cash transfers. For an extra 30 minutes of survey time, we find that respondents are about 5-10% more likely to skip a question. Because they skip more questions, the total monetary value of aggregated categories such as assets or expenditures decline. This effect is quite large for some categories: for example, an extra 30 minutes lowers food expenditures by 12.5% and the value of transfers received by 22% and the value of transfers given by 39%. This decrease implies that cash treatment effects will be attenuated for outcomes measured later in the survey, and this is what we find.
 </details>
 
