@@ -39,6 +39,11 @@ Presented: [IPA-GPRL Methods & Measurement Conference 2021](https://sites.google
 </details> 
 <br/>
 **"The Impact of Digital Credit in Developing Economies: A Review of Recent Evidence"** (with [Joshua Blumenstock](https://jblumenstock.com/) and [Jonathan Robinson](https://people.ucsc.edu/~jmrtwo/)). <br/>
+<details>
+  <summary>Abstract</summary> 
+
+  In recent years, a new generation of "digital credit" products have transformed the consumer lending landscape in many low- and middle-income countries. Offering short-term, high-interest loans via mobile phones or other digital platforms, these products have become wildly popular. This article reviews the small but emerging evidence on the welfare impacts of digital credit. These studies document very high rates of takeup -- well in excess of traditional microcredit -- despite the fact that customers often do not understand the terms of their loans. Overall, there is little evidence that access to credit has consistent positive impacts on borrower welfare, though two impact evaluations document positive effects on resilience and subjective well-being, respectively. No study finds statistically significant negative impacts of digital credit. 
+</details>
 
 
 <h2> Works in progress </h2>
@@ -47,7 +52,7 @@ Presented: [IPA-GPRL Methods & Measurement Conference 2021](https://sites.google
 <details>
   <summary>Abstract</summary>
 
-  We evaluate an unconditional cash transfer program implemented by the NGO GiveDirectly. We work in 600 rural villages in Liberia and Malawi, with half receiving transfers of $250-750 per household. We investigate cash effects on a host of household welfare outcomes such as food security, expenditure, wealth, psychosocial well being and intimate partner violence. Our preliminary results show significant effects on most of our pre-specified primary outcomes, about 18 months after households received their first transfers. We also examine the dynamic effects of cash transfers via monthly phone surveys which started before the first transfers and continued for more than two years. We find that the effect of cash on household expenditure dissipates quickly, and is not significant at endline. We also find that the effect on food security is diminishing over time, though the effects are still significant at endline. 
+  We evaluate an unconditional cash transfer program implemented by the NGO GiveDirectly. We work in 600 rural villages in Liberia and Malawi, with half receiving transfers of $250-750 per household. We investigate cash effects on a host of household welfare outcomes. Our preliminary results show significant effects on most of our primary outcomes, about 18 months after households received their first transfers. We also examine the dynamic effects of cash transfers via monthly phone surveys over two years. We find that the effect of cash on household expenditures dissipates quickly. We also find that the effect on food security diminishes over time, though the effects are still significant two years later. 
 </details>
 <br/>
 **"Going the Extra Mile: Remoteness, Input Adoption, and the Role of Subsidies"** (with [Shilpa Aggarwal](https://aggarwalshilpa.wixsite.com/home), [Dahyeon Jeong](https://dahyeonjeong.com/), [Naresh Kumar](https://sites.google.com/ucsc.edu/nkumar/), [Jonathan Robinson](https://people.ucsc.edu/~jmrtwo/), and [Alan Spearot](https://people.ucsc.edu/~aspearot/)). <br/>
