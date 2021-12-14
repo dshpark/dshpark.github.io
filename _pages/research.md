@@ -39,7 +39,7 @@ Presented: [IPA-GPRL Methods & Measurement Conference 2021](https://sites.google
   Living standards measurement surveys require the sustained attention of a respondent for several hours. We quantify survey fatigue in a measurement experiment in rural Liberia and Malawi in which we randomized the order in which various questions appeared in a 2-3 hour-long in-person baseline and endline surveys. The surveys were conducted as part of an evaluation of cash transfers. For an extra 30 minutes of survey time, we find that respondents are about 5-10% more likely to skip a question. Because they skip more questions, the total monetary value of aggregated categories such as assets or expenditures decline. This effect is quite large for some categories: for example, an extra 30 minutes lowers food expenditures by 12.5% and the value of transfers received by 22% and the value of transfers given by 39%. This decrease implies that cash treatment effects will be attenuated for outcomes measured later in the survey, and this is what we find.
 </details> 
 <br/>
-**"The Impact of Digital Credit in Developing Economies: A Review of Recent Evidence"** (with [Joshua Blumenstock](https://jblumenstock.com/) and [Jonathan Robinson](https://people.ucsc.edu/~jmrtwo/)). <br/>
+"[**The Impact of Digital Credit in Developing Economies: A Review of Recent Evidence**](/files/DCO_synthesis.pdf)"" (with [Joshua Blumenstock](https://jblumenstock.com/) and [Jonathan Robinson](https://people.ucsc.edu/~jmrtwo/)). <br/>
 <details>
   <summary>Abstract</summary> 
 
