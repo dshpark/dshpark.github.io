@@ -8,7 +8,7 @@ author_profile: true
 
 "[**Reducing Intimate Partner Violence: Evidence from a Multifaceted Female Empowerment Program in Urban Liberia**](/files/RC_paper.pdf)" (with [Naresh Kumar](https://sites.google.com/ucsc.edu/nkumar/)). [[AEA RCT Registry]](https://www.socialscienceregistry.org/trials/4488). <br/>
 ***Job Market Paper***. <br/>
-Presented: [PacDev 2022 (scheduled)](https://cega.berkeley.edu/event/pacdev-2022/), [North East Universities Development Consortium (NEUDC) 2021](https://sites.google.com/view/neudc2021) <br/>
+Presented: [PacDev 2022 (scheduled)](https://cega.berkeley.edu/event/pacdev-2022/), [NEUDC 2021](https://sites.google.com/view/neudc2021) <br/>
 Covered: [World Bank Development Impact Blog](https://blogs.worldbank.org/impactevaluations/holistic-approach-tackling-intimate-partner-violence-among-marginalized-women) <br/>
 <details> 
   <summary>Abstract</summary> 
@@ -66,3 +66,7 @@ Presented: [IPA-GPRL Methods & Measurement Conference 2021](https://sites.google
 **“Remoteness and Input Market Access in Rural Malawi”** (with [Shilpa Aggarwal](https://aggarwalshilpa.wixsite.com/home), [Dahyeon Jeong](https://dahyeonjeong.com/), Rolly Kapoor, [Naresh Kumar](https://sites.google.com/ucsc.edu/nkumar/), [Jonathan Robinson](https://people.ucsc.edu/~jmrtwo/), and [Alan Spearot](https://people.ucsc.edu/~aspearot/)). <br/>
 
 **“Understanding Factors for Adoption of Modern Contraceptives: An Experiment with Private-sector Health Providers in Liberia”** (with Rolly Kapoor and [Naresh Kumar](https://sites.google.com/ucsc.edu/nkumar/)). <br/>
+
+**“Property Tax Compliance under Low Fiscal Capacity: An Experiment with the Liberia Revenue Authority”** (with [Oyebola Okunogbe](https://sites.google.com/site/oyebolaokunogbe/)). <br/>
+
+
