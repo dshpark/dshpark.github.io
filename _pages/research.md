@@ -8,7 +8,7 @@ author_profile: true
 
 "[**Reducing Intimate Partner Violence: Evidence from a Multifaceted Female Empowerment Program in Urban Liberia**](/files/RC_paper.pdf)" (with [Naresh Kumar](https://sites.google.com/ucsc.edu/nkumar/)). [[AEA RCT Registry]](https://www.socialscienceregistry.org/trials/4488). <br/>
 ***Job Market Paper***. <br/>
-Presented: [NEUDC 2021](https://sites.google.com/view/neudc2021), [PacDev 2022 (scheduled)](https://cega.berkeley.edu/event/pacdev-2022/), [MIEDC 2022 (scheduled)](https://sites.google.com/a/umn.edu/miedc/home) <br/>
+Presented: [NEUDC 2021](https://sites.google.com/view/neudc2021), [PacDev 2022](https://cega.berkeley.edu/pacdev-2022-conference-schedule/), [MIEDC 2022 (scheduled)](https://sites.google.com/a/umn.edu/miedc/home) <br/>
 Covered: [World Bank Development Impact Blog](https://blogs.worldbank.org/impactevaluations/holistic-approach-tackling-intimate-partner-violence-among-marginalized-women) <br/>
 <details> 
   <summary>Abstract</summary> 
