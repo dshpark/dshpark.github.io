@@ -8,10 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-
-I am a Ph.D. Candidate at the Economics Department of University of California, Santa Cruz (UCSC), doing Development Economics with ongoing field projects in Liberia and Malawi. 
-
-I will be joining the KDI School of Public Policy and Management as an Assistant Professor starting Fall 2022. 
+I am an Assistant Professor of Development Economics at the KDI School of Public Policy and Management. Most of my research are empirical works based on randomized controlled trials (RCTs) in Sub-Saharan African countries. I study topics including intimate partner violence, unconditional cash transfers, food security, agriculture, and survey methodology.
 
 [[Curriculum Vitae]](/files/CV_DavidSunghoPark.pdf)
 
