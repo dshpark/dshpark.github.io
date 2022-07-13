@@ -12,4 +12,4 @@ I am an Assistant Professor of Development Economics at the KDI School of Public
 
 [[Curriculum Vitae]](/files/CV_DavidSunghoPark.pdf)
 
-Email: [davidspark [at] ucsc [dot] edu](mailto:davidspark@ucsc.edu)
+Email: [park@kdis.ac.kr](mailto:park@kdis.ac.kr)
