@@ -4,6 +4,17 @@ permalink: /research/
 author_profile: true
 ---
 
+<h2> Publications </h2>
+
+"[**COVID-19 market disruptions and food security: Evidence from households in rural Liberia and Malawi**](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0271488)" (with [Shilpa Aggarwal](https://aggarwalshilpa.wixsite.com/home), [Dahyeon Jeong](https://dahyeonjeong.com/), [Naresh Kumar](https://sites.google.com/ucsc.edu/nkumar/), [Jonathan Robinson](https://people.ucsc.edu/~jmrtwo/), and [Alan Spearot](https://people.ucsc.edu/~aspearot/)). *PLoS ONE* 17(8): e0271488. [[PDF]](/files/COVID_paper.pdf) <br/>
+<details>
+  <summary>Abstract</summary>
+
+  We use data collected from panel phone surveys to document the changes in food security of households in rural Liberia and Malawi during the market disruptions associated with the COVID-19 lockdowns in 2020. We use two distinct empirical approaches in our analysis: (a) an event study around the date of the lockdowns (March to July 2020), and (b) a difference-in-differences analysis comparing the lockdown period in 2020 to the same months in 2021, in order to attempt to control for seasonality. In both countries, market activity was severely disrupted and we observe declines in expenditures. However, we find no evidence of declines in food security.
+</details> 
+<br/>
+
+
 <h2> Working papers </h2>
 
 "[**Reducing Intimate Partner Violence: Evidence from a Multifaceted Female Empowerment Program in Urban Liberia**](/files/RC_paper.pdf)" (with [Naresh Kumar](https://sites.google.com/ucsc.edu/nkumar/)). [[AEA RCT Registry]](https://www.socialscienceregistry.org/trials/4488). <br/>
@@ -22,13 +33,6 @@ Presented: [IPA-GPRL Methods & Measurement Conference 2021](https://sites.google
   <summary>Abstract</summary> 
 
   Living standards measurement surveys require sustained attention for several hours. We quantify survey fatigue by randomizing the order of questions in in-person surveys (lasting 2.5 hours on average) fielded in an evaluation of cash transfers in rural Liberia and Malawi. An additional hour of survey time increases the probability that a respondent skips a question by 10-64%. Because skips are more common, the total monetary value of aggregated categories such as assets or expenditures declines as the survey goes on, and this effect is sizeable for some categories: for example, an extra hour of survey time lowers food expenditures by 25%. Evidence from a similar experiment within high-frequency phone surveys shows that the results are not driven by the respondents deliberately choosing to skip questions in order to hasten the end of the survey, suggesting that cognitive burden is the key driver of survey fatigue.
-</details> 
-<br/>
-"[**COVID-19 market disruptions and food security: Evidence from households in rural Liberia and Malawi**](/files/COVID_paper.pdf)" (with [Shilpa Aggarwal](https://aggarwalshilpa.wixsite.com/home), [Dahyeon Jeong](https://dahyeonjeong.com/), [Naresh Kumar](https://sites.google.com/ucsc.edu/nkumar/), [Jonathan Robinson](https://people.ucsc.edu/~jmrtwo/), and [Alan Spearot](https://people.ucsc.edu/~aspearot/)). Accepted, *PLOS ONE*. <br/>
-<details>
-  <summary>Abstract</summary>
-
-  We use data collected from panel phone surveys to quantify the effect of market disruptions due to COVID-19 lockdowns on food security of households in rural Liberia and Malawi. We estimate effects using two distinct empirical approaches: (a) an event study around the date of the lockdowns (March to July 2020), and (b) a difference-in-differences analysis comparing the lockdown period in 2020 to the same months in 2021, which helps us control for any seasonal effects. In both countries, market activity was severely disrupted and we observe declines in expenditures. However, we find no evidence of declines in food security.
 </details> 
 <br/>
 "[**Private but Misunderstood? Evidence on Measuring Intimate Partner Violence via Self-Interviewing in Rural Liberia and Malawi**](/files/ACASI_paper.pdf)" (with [Shilpa Aggarwal](https://aggarwalshilpa.wixsite.com/home), [Dahyeon Jeong](https://dahyeonjeong.com/), [Naresh Kumar](https://sites.google.com/ucsc.edu/nkumar/), [Jonathan Robinson](https://people.ucsc.edu/~jmrtwo/), and [Alan Spearot](https://people.ucsc.edu/~aspearot/)). Submitted. <br/>
