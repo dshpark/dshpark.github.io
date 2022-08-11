@@ -49,7 +49,14 @@ Presented: [IPA-GPRL Methods & Measurement Conference 2021](https://sites.google
 
   In recent years, a new generation of "digital credit" products have transformed the consumer lending landscape in many low- and middle-income countries. Offering short-term, high-interest loans via mobile phones or other digital platforms, these products have become wildly popular. This article reviews the small but emerging evidence on the welfare impacts of digital credit. These studies document very high rates of takeup -- well in excess of traditional microcredit -- despite the fact that customers often do not understand the terms of their loans. Overall, there is little evidence that access to credit has consistent positive impacts on borrower welfare, though two impact evaluations document positive effects on resilience and subjective well-being, respectively. No study finds statistically significant negative impacts of digital credit. 
 </details>
+<br/>
+"[**Going the Extra Mile: Farm Subsidies and Spatial Convergence in Agricultural Input Adoption**](/files/FISP.pdf)" (with [Shilpa Aggarwal](https://aggarwalshilpa.wixsite.com/home), [Dahyeon Jeong](https://dahyeonjeong.com/), [Naresh Kumar](https://sites.google.com/ucsc.edu/nkumar/), [Jonathan Robinson](https://people.ucsc.edu/~jmrtwo/), and [Alan Spearot](https://people.ucsc.edu/~aspearot/)). <br/>
+<details>
+  <summary>Abstract</summary>
 
+  We evaluate a unique policy experiment in which the Government of Malawi randomized beneficiary selection for its Farm Input Subsidy Program. These subsidies can only be redeemed at local retailers, making travel cost-adjusted prices higher for remote farmers. Despite these costs, redemption is only marginally lower in remote areas. The subsidy eliminates the substantial remoteness-input quantity gradient that would exist in its absence. The equalizing effect on village-level input usage is modest because remote farmers are less likely to share subsidized inputs with non-beneficiaries. Our results demonstrate that subsidy programs may narrow spatial inequities in developing
+countries. 
+</details> 
 
 <h2> Works in progress </h2>
 
@@ -59,13 +66,6 @@ Presented: [IPA-GPRL Methods & Measurement Conference 2021](https://sites.google
 
   This paper uses bi-monthly phone surveys to study the persistence of large, unconditional cash transfers to households in rural Liberia and Malawi. In Malawi, we find sizeable immediate increases in food security and expenditures. The effect on food security diminishes to half of its initial size within 8 months but persists over 2 years, while the effect on expenditures falls to zero within a year. In Liberia, we also find an immediate increase in food security with no evidence of a decline over time, a persistent effect on non-food expenditures still present at endline, and no evidence of an effect on food expenditures at any point. We find no effect on non-agricultural income at any point in either country. In an endline conducted 18-25 months post transfer, we find improvements in asset ownership, psychological well-being, household resilience, and intimate partner violence. We also find a decline in casual labor in both countries and an increase in school enrollment, attendance, and educational spending in Liberia.  
 </details>
-<br/>
-**"Going the Extra Mile: Remoteness, Input Adoption, and the Role of Subsidies"** (with [Shilpa Aggarwal](https://aggarwalshilpa.wixsite.com/home), [Dahyeon Jeong](https://dahyeonjeong.com/), [Naresh Kumar](https://sites.google.com/ucsc.edu/nkumar/), [Jonathan Robinson](https://people.ucsc.edu/~jmrtwo/), and [Alan Spearot](https://people.ucsc.edu/~aspearot/)). <br/>
-<details>
-  <summary>Abstract</summary>
-
-  Farmers in sub-Saharan Africa typically use much less than the recommended amounts of productivity-enhancing inputs like fertilizer, and this usage (and productivity) gap is even greater for those located in remote areas. We study the effect of agricultural input subsidies on input usage, and on the input usage-remoteness gradient using a unique policy experiment: the randomization of the Malawi Farm Input Subsidy Program (FISP). The subsidy is worth approximately 75% of the cost of inputs (roughly $50), but requires farmers to travel to input retailers to redeem the coupon, such that the delivered price of subsidized inputs is increasing with remoteness. We find that the subsidy increased fertilizer use on average, but only modestly (due to high levels of input usage in the control group), and we find no lasting impact of the program. We find no remoteness gradient in take-up of subsidized fertilizer - in this context, travel costs have no deterring effect on subsidy take-up, a result which may be attributable to the size of the subsidy. While remoteness is associated with a decline in fertilizer usage for non-beneficiaries, the gap is completely eliminated for beneficiaries. Our results suggest that subsidy programs like FISP may have a role to play in narrowing spatial inequities in developing countries. 
-</details> 
 <br/>
 **“Remoteness and Input Market Access in Rural Malawi”** (with [Shilpa Aggarwal](https://aggarwalshilpa.wixsite.com/home), [Dahyeon Jeong](https://dahyeonjeong.com/), Rolly Kapoor, [Naresh Kumar](https://sites.google.com/ucsc.edu/nkumar/), [Jonathan Robinson](https://people.ucsc.edu/~jmrtwo/), and [Alan Spearot](https://people.ucsc.edu/~aspearot/)). <br/>
 
