@@ -5,7 +5,14 @@ author_profile: true
 ---
 
 <h2> Publications </h2>
+"[**Exhaustive or Exhausting? Evidence on Respondent Fatigue in Long Surveys**](/files/survey_fatigue.pdf)" (with [Dahyeon Jeong](https://dahyeonjeong.com/), [Shilpa Aggarwal](https://aggarwalshilpa.wixsite.com/home), [Jonathan Robinson](https://people.ucsc.edu/~jmrtwo/), [Naresh Kumar](https://sites.google.com/ucsc.edu/nkumar/),  and [Alan Spearot](https://people.ucsc.edu/~aspearot/)). Accepted, *Journal of Development Economics*. <br/>
+Presented: [IPA-GPRL Methods & Measurement Conference 2021](https://sites.google.com/view/researcher-gathering/program/october-28-methods-measurement?authuser=0) <br/>
+<details>
+  <summary>Abstract</summary> 
 
+  Living standards measurement surveys require sustained attention for several hours. We quantify survey fatigue by randomizing the order of questions in in-person surveys (lasting 2.5 hours on average) fielded in an evaluation of cash transfers in rural Liberia and Malawi. An additional hour of survey time increases the probability that a respondent skips a question by 10-64%. Because skips are more common, the total monetary value of aggregated categories such as assets or expenditures declines as the survey goes on, and this effect is sizeable for some categories: for example, an extra hour of survey time lowers food expenditures by 25%. Evidence from a similar experiment within high-frequency phone surveys shows that the results are not driven by the respondents deliberately choosing to skip questions in order to hasten the end of the survey, suggesting that cognitive burden is the key driver of survey fatigue.
+</details> 
+<br/>
 "[**COVID-19 market disruptions and food security: Evidence from households in rural Liberia and Malawi**](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0271488)" (with [Shilpa Aggarwal](https://aggarwalshilpa.wixsite.com/home), [Dahyeon Jeong](https://dahyeonjeong.com/), [Naresh Kumar](https://sites.google.com/ucsc.edu/nkumar/), [Jonathan Robinson](https://people.ucsc.edu/~jmrtwo/), and [Alan Spearot](https://people.ucsc.edu/~aspearot/)). *PLoS ONE* 17(8): e0271488. [[PDF]](/files/COVID_paper.pdf) <br/>
 <details>
   <summary>Abstract</summary>
@@ -32,14 +39,6 @@ Covered: [World Bank Development Impact Blog](https://blogs.worldbank.org/impact
   <summary>Abstract</summary> 
 
   Intimate partner violence (IPV) is a global public health challenge associated with adverse health effects and economic costs to both survivors and society, but there is limited evidence on how it can be effectively prevented or reduced. Designing and evaluating interventions targeted at IPV is challenging because the underlying factors of IPV are so intertwined that it can be explained only by a variety of sociocultural factors in addition to personal and interpersonal elements. This paper evaluates a randomized controlled trial of a multifaceted female empowerment program in Monrovia, Liberia, where the baseline IPV prevalence is particularly high. The program intervention includes intensive psychosocial therapy and vocational skills training throughout a full year. About 12 months after program completion, we find the program significantly reduced the proportion of women who experienced emotional, physical, and sexual IPV by 10-26 percentage points (from control bases of 24-62 percent). While there are multiple pathways through which IPV could be impacted, one channel is that the business training was highly effective: labor supply increased by 37 percent and expenditure by 49 percent. While one focus of the program is psychological empowerment, we find positive but statistically insignificant effects on distress and happiness indices. We also find improvements in social norms around IPV: perceived justifiability of IPV reduced by 0.3 standard deviations. 
-</details> 
-<br/>
-"[**Exhaustive or Exhausting? Evidence on Respondent Fatigue in Long Surveys**](/files/survey_fatigue.pdf)" (with [Dahyeon Jeong](https://dahyeonjeong.com/), [Shilpa Aggarwal](https://aggarwalshilpa.wixsite.com/home), [Jonathan Robinson](https://people.ucsc.edu/~jmrtwo/), [Naresh Kumar](https://sites.google.com/ucsc.edu/nkumar/),  and [Alan Spearot](https://people.ucsc.edu/~aspearot/)). Revise & Resubmit, *Journal of Development Economics*. <br/>
-Presented: [IPA-GPRL Methods & Measurement Conference 2021](https://sites.google.com/view/researcher-gathering/program/october-28-methods-measurement?authuser=0) <br/>
-<details>
-  <summary>Abstract</summary> 
-
-  Living standards measurement surveys require sustained attention for several hours. We quantify survey fatigue by randomizing the order of questions in in-person surveys (lasting 2.5 hours on average) fielded in an evaluation of cash transfers in rural Liberia and Malawi. An additional hour of survey time increases the probability that a respondent skips a question by 10-64%. Because skips are more common, the total monetary value of aggregated categories such as assets or expenditures declines as the survey goes on, and this effect is sizeable for some categories: for example, an extra hour of survey time lowers food expenditures by 25%. Evidence from a similar experiment within high-frequency phone surveys shows that the results are not driven by the respondents deliberately choosing to skip questions in order to hasten the end of the survey, suggesting that cognitive burden is the key driver of survey fatigue.
 </details> 
 <br/>
 "[**Private but Misunderstood? Evidence on Measuring Intimate Partner Violence via Self-Interviewing in Rural Liberia and Malawi**](/files/ACASI_paper.pdf)" (with [Shilpa Aggarwal](https://aggarwalshilpa.wixsite.com/home), [Dahyeon Jeong](https://dahyeonjeong.com/), [Naresh Kumar](https://sites.google.com/ucsc.edu/nkumar/), [Jonathan Robinson](https://people.ucsc.edu/~jmrtwo/), and [Alan Spearot](https://people.ucsc.edu/~aspearot/)). Submitted. <br/>
