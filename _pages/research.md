@@ -24,11 +24,6 @@ Covered: [World Bank Development Impact Blog](https://blogs.worldbank.org/impact
 Presented: [IPA-GPRL Methods & Measurement Conference 2021](https://sites.google.com/view/researcher-gathering/program/october-28-methods-measurement?authuser=0) <br/>
 <br/>
 "[**The Impact of Digital Credit in Developing Economies: A Review of Recent Evidence**](/files/DCO_synthesis.pdf)" (with [Joshua Blumenstock](https://jblumenstock.com/) and [Jonathan Robinson](https://people.ucsc.edu/~jmrtwo/)). <br/>
-<!-- <details>
-  <summary>Abstract</summary> 
-
-  In recent years, a new generation of "digital credit" products have transformed the consumer lending landscape in many low- and middle-income countries. Offering short-term, high-interest loans via mobile phones or other digital platforms, these products have become wildly popular. This article reviews the small but emerging evidence on the welfare impacts of digital credit. These studies document very high rates of takeup -- well in excess of traditional microcredit -- despite the fact that customers often do not understand the terms of their loans. Overall, there is little evidence that access to credit has consistent positive impacts on borrower welfare, though two impact evaluations document positive effects on resilience and subjective well-being, respectively. No study finds statistically significant negative impacts of digital credit. 
-</details> -->
 <br/>
 "[**Going the Extra Mile: Farm Subsidies and Spatial Convergence in Agricultural Input Adoption**](/files/FISP.pdf)" (with [Shilpa Aggarwal](https://aggarwalshilpa.wixsite.com/home), [Dahyeon Jeong](https://dahyeonjeong.com/), [Naresh Kumar](https://sites.google.com/ucsc.edu/nkumar/), [Jonathan Robinson](https://people.ucsc.edu/~jmrtwo/), and [Alan Spearot](https://people.ucsc.edu/~aspearot/)). <br/>
 
