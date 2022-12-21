@@ -5,9 +5,9 @@ author_profile: true
 ---
 
 <h2> Publications </h2>
-"[**Exhaustive or Exhausting? Evidence on Respondent Fatigue in Long Surveys**](/files/survey_fatigue.pdf)" (with [Dahyeon Jeong](https://dahyeonjeong.com/), [Shilpa Aggarwal](https://aggarwalshilpa.wixsite.com/home), [Jonathan Robinson](https://people.ucsc.edu/~jmrtwo/), [Naresh Kumar](https://sites.google.com/ucsc.edu/nkumar/),  and [Alan Spearot](https://people.ucsc.edu/~aspearot/)). Accepted, *Journal of Development Economics*. <br/>
+(2023) "[**Exhaustive or Exhausting? Evidence on Respondent Fatigue in Long Surveys**](https://www.sciencedirect.com/science/article/pii/S0304387822001341)" (with [Dahyeon Jeong](https://dahyeonjeong.com/), [Shilpa Aggarwal](https://aggarwalshilpa.wixsite.com/home), [Jonathan Robinson](https://people.ucsc.edu/~jmrtwo/), [Naresh Kumar](https://sites.google.com/ucsc.edu/nkumar/),  and [Alan Spearot](https://people.ucsc.edu/~aspearot/)). *Journal of Development Economics* 161: 102992. [[PDF]](/files/survey_fatigue.pdf) <br/>
 <br/>
-"[**COVID-19 market disruptions and food security: Evidence from households in rural Liberia and Malawi**](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0271488)" (with [Shilpa Aggarwal](https://aggarwalshilpa.wixsite.com/home), [Dahyeon Jeong](https://dahyeonjeong.com/), [Naresh Kumar](https://sites.google.com/ucsc.edu/nkumar/), [Jonathan Robinson](https://people.ucsc.edu/~jmrtwo/), and [Alan Spearot](https://people.ucsc.edu/~aspearot/)). *PLoS ONE* 17(8): e0271488. [[PDF]](/files/COVID_paper.pdf) <br/>
+(2022) "[**COVID-19 market disruptions and food security: Evidence from households in rural Liberia and Malawi**](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0271488)" (with [Shilpa Aggarwal](https://aggarwalshilpa.wixsite.com/home), [Dahyeon Jeong](https://dahyeonjeong.com/), [Naresh Kumar](https://sites.google.com/ucsc.edu/nkumar/), [Jonathan Robinson](https://people.ucsc.edu/~jmrtwo/), and [Alan Spearot](https://people.ucsc.edu/~aspearot/)). *PLoS ONE* 17(8): e0271488. [[PDF]](/files/COVID_paper.pdf) <br/>
 <br/>
 
 
