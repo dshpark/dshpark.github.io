@@ -13,6 +13,7 @@ author_profile: true
 
 <h2> Working papers </h2>
 
+"[**Shortening the Path to Productive Investment: Evidence from Input Fairs and Cash Transfers in Malawi**](/files/cashplus.pdf)" (with [Shilpa Aggarwal](https://aggarwalshilpa.wixsite.com/home), [Dahyeon Jeong](https://dahyeonjeong.com/), [Naresh Kumar](https://sites.google.com/ucsc.edu/nkumar/), [Jonathan Robinson](https://people.ucsc.edu/~jmrtwo/), and [Alan Spearot](https://people.ucsc.edu/~aspearot/)). <br/>
 "[**The Dynamic Effects of Cash Transfers: Evidence from Rural Liberia and Malawi**](/files/dynamic_effects.pdf)" (with [Shilpa Aggarwal](https://aggarwalshilpa.wixsite.com/home), [Jenny Aker](https://sites.tufts.edu/jennyaker/), [Dahyeon Jeong](https://dahyeonjeong.com/), [Naresh Kumar](https://sites.google.com/ucsc.edu/nkumar/), [Jonathan Robinson](https://people.ucsc.edu/~jmrtwo/), and [Alan Spearot](https://people.ucsc.edu/~aspearot/)). [[AEA RCT Registry]](https://www.socialscienceregistry.org/trials/4869) <br/>
 <br/>
 "[**Reducing Intimate Partner Violence: Evidence from a Multifaceted Female Empowerment Program in Urban Liberia**](/files/RC_paper.pdf)" (with [Naresh Kumar](https://sites.google.com/ucsc.edu/nkumar/)). [[AEA RCT Registry]](https://www.socialscienceregistry.org/trials/4488). <br/>
