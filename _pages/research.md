@@ -33,9 +33,7 @@ Presented: [IPA-GPRL Methods & Measurement Conference 2021](https://sites.google
 
 **"Raising Retail Productivity through Data Pooling in Zambia"** (with [Jie Bai](https://sites.google.com/site/jiebaiecon/home) and [Ajay Shenoy](https://people.ucsc.edu/~azshenoy/)). <br/> 
 
-**“Remoteness and Input Market Access in Rural Malawi”** (with [Shilpa Aggarwal](https://aggarwalshilpa.wixsite.com/home), [Dahyeon Jeong](https://dahyeonjeong.com/), Rolly Kapoor, [Naresh Kumar](https://sites.google.com/ucsc.edu/nkumar/), [Jonathan Robinson](https://people.ucsc.edu/~jmrtwo/), and [Alan Spearot](https://people.ucsc.edu/~aspearot/)). <br/>
-
-**“Understanding Factors for Adoption of Modern Contraceptives: An Experiment with Private-sector Health Providers in Liberia”** (with Rolly Kapoor and [Naresh Kumar](https://sites.google.com/ucsc.edu/nkumar/)). <br/>
+**“Understanding Factors for Adoption of Modern Contraceptives: An Experiment with Private-sector Health Providers in Liberia”** (with [Rolly Kapoor](https://rollykapoor.github.io/)). <br/>
 
 **“Property Tax Compliance under Low Fiscal Capacity: An Experiment with the Liberia Revenue Authority”** (with [Oyebola Okunogbe](https://sites.google.com/site/oyebolaokunogbe/)). <br/>
 
