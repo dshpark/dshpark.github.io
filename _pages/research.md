@@ -14,15 +14,16 @@ author_profile: true
 <h2> Working papers </h2>
 
 "[**The Dynamic Effects of Cash Transfers: Evidence from Rural Liberia and Malawi**](/files/dynamic_effects.pdf)" (with [Shilpa Aggarwal](https://aggarwalshilpa.wixsite.com/home), [Jenny Aker](https://sites.tufts.edu/jennyaker/), [Dahyeon Jeong](https://dahyeonjeong.com/), [Naresh Kumar](https://sites.google.com/ucsc.edu/nkumar/), [Jonathan Robinson](https://people.ucsc.edu/~jmrtwo/), and [Alan Spearot](https://people.ucsc.edu/~aspearot/)). Revise and Resubmit, *American Economic Journal: Applied Economics*. [[AEA RCT Registry]](https://www.socialscienceregistry.org/trials/4869) <br/>
+Covered: [VoxDev]([https://blogs.worldbank.org/impactevaluations/holistic-approach-tackling-intimate-partner-violence-among-marginalized-women](https://voxdev.org/topic/public-economics/dynamic-effects-cash-transfers-evidence-liberia-and-malawi)) <br/>
 <br/>
 "[**Shortening the Path to Productive Investment: Evidence from Input Fairs and Cash Transfers in Malawi**](/files/cashplus.pdf)" (with [Shilpa Aggarwal](https://aggarwalshilpa.wixsite.com/home), [Dahyeon Jeong](https://dahyeonjeong.com/), [Naresh Kumar](https://sites.google.com/ucsc.edu/nkumar/), [Jonathan Robinson](https://people.ucsc.edu/~jmrtwo/), and [Alan Spearot](https://people.ucsc.edu/~aspearot/)). <br/>
 <br/>
 "[**Reducing Intimate Partner Violence: Evidence from a Multifaceted Female Empowerment Program in Urban Liberia**](/files/RC_paper.pdf)" (with [Naresh Kumar](https://sites.google.com/ucsc.edu/nkumar/)). [[AEA RCT Registry]](https://www.socialscienceregistry.org/trials/4488). <br/>
-Presented: [NEUDC 2021](https://sites.google.com/view/neudc2021), [PacDev 2022](https://cega.berkeley.edu/pacdev-2022-conference-schedule/), [MIEDC 2022](https://sites.google.com/a/umn.edu/miedc/conference-information/) <br/>
+<!-- Presented: [NEUDC 2021](https://sites.google.com/view/neudc2021), [PacDev 2022](https://cega.berkeley.edu/pacdev-2022-conference-schedule/), [MIEDC 2022](https://sites.google.com/a/umn.edu/miedc/conference-information/) <br/> -->
 Covered: [World Bank Development Impact Blog](https://blogs.worldbank.org/impactevaluations/holistic-approach-tackling-intimate-partner-violence-among-marginalized-women) <br/>
 <br/>
 "[**Private but Misunderstood? Evidence on Measuring Intimate Partner Violence via Self-Interviewing in Rural Liberia and Malawi**](/files/ACASI_paper.pdf)" (with [Shilpa Aggarwal](https://aggarwalshilpa.wixsite.com/home), [Dahyeon Jeong](https://dahyeonjeong.com/), [Naresh Kumar](https://sites.google.com/ucsc.edu/nkumar/), [Jonathan Robinson](https://people.ucsc.edu/~jmrtwo/), and [Alan Spearot](https://people.ucsc.edu/~aspearot/)). <br/>
-Presented: [IPA-GPRL Methods & Measurement Conference 2021](https://sites.google.com/view/researcher-gathering/program/october-28-methods-measurement?authuser=0) <br/>
+<!-- Presented: [IPA-GPRL Methods & Measurement Conference 2021](https://sites.google.com/view/researcher-gathering/program/october-28-methods-measurement?authuser=0) <br/> -->
 <br/>
 "[**The Impact of Digital Credit in Developing Economies: A Review of Recent Evidence**](/files/DCO_synthesis.pdf)" (with [Joshua Blumenstock](https://jblumenstock.com/) and [Jonathan Robinson](https://people.ucsc.edu/~jmrtwo/)). <br/>
 <br/>
