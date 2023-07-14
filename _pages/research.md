@@ -14,7 +14,7 @@ author_profile: true
 <h2> Working papers </h2>
 
 "[**The Dynamic Effects of Cash Transfers: Evidence from Rural Liberia and Malawi**](/files/dynamic_effects.pdf)" (with [Shilpa Aggarwal](https://aggarwalshilpa.wixsite.com/home), [Jenny Aker](https://sites.tufts.edu/jennyaker/), [Dahyeon Jeong](https://dahyeonjeong.com/), [Naresh Kumar](https://sites.google.com/ucsc.edu/nkumar/), [Jonathan Robinson](https://people.ucsc.edu/~jmrtwo/), and [Alan Spearot](https://people.ucsc.edu/~aspearot/)). Revise and Resubmit, *American Economic Journal: Applied Economics*. [[AEA RCT Registry]](https://www.socialscienceregistry.org/trials/4869) <br/>
-Covered: [VoxDev]([https://blogs.worldbank.org/impactevaluations/holistic-approach-tackling-intimate-partner-violence-among-marginalized-women](https://voxdev.org/topic/public-economics/dynamic-effects-cash-transfers-evidence-liberia-and-malawi)) <br/>
+Covered: [VoxDev](https://voxdev.org/topic/public-economics/dynamic-effects-cash-transfers-evidence-liberia-and-malawi) <br/>
 <br/>
 "[**Shortening the Path to Productive Investment: Evidence from Input Fairs and Cash Transfers in Malawi**](/files/cashplus.pdf)" (with [Shilpa Aggarwal](https://aggarwalshilpa.wixsite.com/home), [Dahyeon Jeong](https://dahyeonjeong.com/), [Naresh Kumar](https://sites.google.com/ucsc.edu/nkumar/), [Jonathan Robinson](https://people.ucsc.edu/~jmrtwo/), and [Alan Spearot](https://people.ucsc.edu/~aspearot/)). <br/>
 <br/>
