@@ -16,6 +16,8 @@ author_profile: true
 "[**The Dynamic Effects of Cash Transfers: Evidence from Rural Liberia and Malawi**](/files/dynamic_effects.pdf)" (with [Shilpa Aggarwal](https://aggarwalshilpa.wixsite.com/home), [Jenny Aker](https://sites.tufts.edu/jennyaker/), [Dahyeon Jeong](https://dahyeonjeong.com/), [Naresh Kumar](https://sites.google.com/ucsc.edu/nkumar/), [Jonathan Robinson](https://people.ucsc.edu/~jmrtwo/), and [Alan Spearot](https://people.ucsc.edu/~aspearot/)). Revise and Resubmit, *American Economic Journal: Applied Economics*. [[AEA RCT Registry]](https://www.socialscienceregistry.org/trials/4869) <br/>
 Covered: [VoxDev](https://voxdev.org/topic/public-economics/dynamic-effects-cash-transfers-evidence-liberia-and-malawi) <br/>
 <br/>
+"[**Going the Extra Mile: Farm Subsidies and Spatial Convergence in Agricultural Input Adoption**](/files/FISP.pdf)" (with [Shilpa Aggarwal](https://aggarwalshilpa.wixsite.com/home), [Dahyeon Jeong](https://dahyeonjeong.com/), [Rolly Kapoor](https://rollykapoor.github.io/), [Naresh Kumar](https://sites.google.com/ucsc.edu/nkumar/), [Jonathan Robinson](https://people.ucsc.edu/~jmrtwo/), and [Alan Spearot](https://people.ucsc.edu/~aspearot/)). Revise and Resubmit, *Economic Journal*. <br/>
+<br/>
 "[**Shortening the Path to Productive Investment: Evidence from Input Fairs and Cash Transfers in Malawi**](/files/cashplus.pdf)" (with [Shilpa Aggarwal](https://aggarwalshilpa.wixsite.com/home), [Dahyeon Jeong](https://dahyeonjeong.com/), [Naresh Kumar](https://sites.google.com/ucsc.edu/nkumar/), [Jonathan Robinson](https://people.ucsc.edu/~jmrtwo/), and [Alan Spearot](https://people.ucsc.edu/~aspearot/)). Revise and Resubmit, *Journal of Development Economics*. <br/>
 <br/>
 "[**Private but Misunderstood? Evidence on Measuring Intimate Partner Violence via Self-Interviewing in Rural Liberia and Malawi**](/files/ACASI_paper.pdf)" (with [Shilpa Aggarwal](https://aggarwalshilpa.wixsite.com/home), [Dahyeon Jeong](https://dahyeonjeong.com/), [Naresh Kumar](https://sites.google.com/ucsc.edu/nkumar/), [Jonathan Robinson](https://people.ucsc.edu/~jmrtwo/), and [Alan Spearot](https://people.ucsc.edu/~aspearot/)). Revise and Resubmit, *World Bank Economic Review*. <br/>
@@ -27,8 +29,6 @@ Covered: [VoxDev](https://voxdev.org/topic/methods-measurement/challenge-measuri
 Covered: [World Bank Development Impact Blog](https://blogs.worldbank.org/impactevaluations/holistic-approach-tackling-intimate-partner-violence-among-marginalized-women) <br/>
 <br/>
 "[**The Impact of Digital Credit in Developing Economies: A Review of Recent Evidence**](/files/DCO_synthesis.pdf)" (with [Joshua Blumenstock](https://jblumenstock.com/) and [Jonathan Robinson](https://people.ucsc.edu/~jmrtwo/)). <br/>
-<br/>
-"[**Going the Extra Mile: Farm Subsidies and Spatial Convergence in Agricultural Input Adoption**](/files/FISP.pdf)" (with [Shilpa Aggarwal](https://aggarwalshilpa.wixsite.com/home), [Dahyeon Jeong](https://dahyeonjeong.com/), [Naresh Kumar](https://sites.google.com/ucsc.edu/nkumar/), [Jonathan Robinson](https://people.ucsc.edu/~jmrtwo/), and [Alan Spearot](https://people.ucsc.edu/~aspearot/)). <br/>
 
 
 <h2> Works in progress </h2>
