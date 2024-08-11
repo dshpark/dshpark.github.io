@@ -1,7 +1,7 @@
 ---
 title: "Teaching"
 permalink: /teaching/
-author_profile: true
+author_profile: false
 ---
 
 <h2> University of California, Santa Cruz </h2>
