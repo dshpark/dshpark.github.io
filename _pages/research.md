@@ -5,6 +5,10 @@ author_profile: true
 ---
 
 <h2> Publications and forthcoming papers </h2>
+(Forthcoming) "[**Private but Misunderstood? Evidence on Measuring Intimate Partner Violence via Self-Interviewing in Rural Liberia and Malawi**](/files/ACASI_paper.pdf)" (with [Shilpa Aggarwal](https://aggarwalshilpa.wixsite.com/home), [Dahyeon Jeong](https://dahyeonjeong.com/), [Naresh Kumar](https://sites.google.com/ucsc.edu/nkumar/), [Jonathan Robinson](https://sites.google.com/view/jmrtwo/), and [Alan Spearot](https://sites.google.com/view/acspearot/)). Revised August 2024. Forthcoming, *World Bank Economic Review*. <br/>
+<!-- Presented: [IPA-GPRL Methods & Measurement Conference 2021](https://sites.google.com/view/researcher-gathering/program/october-28-methods-measurement?authuser=0) <br/> -->
+Covered: [VoxDev](https://voxdev.org/topic/methods-measurement/challenge-measuring-intimate-partner-violence-self-interviewing) <br/>
+<br/>
 (2024) "[**Shortening the Path to Productive Investment: Evidence from Input Fairs and Cash Transfers in Malawi**](https://www.sciencedirect.com/science/article/pii/S0304387824000373)" (with [Shilpa Aggarwal](https://aggarwalshilpa.wixsite.com/home), [Dahyeon Jeong](https://dahyeonjeong.com/), [Naresh Kumar](https://sites.google.com/ucsc.edu/nkumar/), [Jonathan Robinson](https://sites.google.com/view/jmrtwo/), and [Alan Spearot](https://sites.google.com/view/acspearot/)). *Journal of Development Economics* 170: 103288. [[PDF]](/files/cashplus.pdf) [[Link to surveys]](https://drive.google.com/drive/folders/1q9P4FTTXPieOa5Q-4T5qWpqGLXQVOLQ_?usp=sharing) <br/>
 <br/>
 (2023) "[**Exhaustive or Exhausting? Evidence on Respondent Fatigue in Long Surveys**](https://www.sciencedirect.com/science/article/pii/S0304387822001341)" (with [Dahyeon Jeong](https://dahyeonjeong.com/), [Shilpa Aggarwal](https://aggarwalshilpa.wixsite.com/home), [Jonathan Robinson](https://sites.google.com/view/jmrtwo/), [Naresh Kumar](https://sites.google.com/ucsc.edu/nkumar/),  and [Alan Spearot](https://sites.google.com/view/acspearot/)). *Journal of Development Economics* 161: 102992. [[PDF]](/files/survey_fatigue.pdf) <br/>
@@ -14,10 +18,6 @@ author_profile: true
 
 
 <h2> Working papers </h2>
-"[**Private but Misunderstood? Evidence on Measuring Intimate Partner Violence via Self-Interviewing in Rural Liberia and Malawi**](/files/ACASI_paper.pdf)" (with [Shilpa Aggarwal](https://aggarwalshilpa.wixsite.com/home), [Dahyeon Jeong](https://dahyeonjeong.com/), [Naresh Kumar](https://sites.google.com/ucsc.edu/nkumar/), [Jonathan Robinson](https://sites.google.com/view/jmrtwo/), and [Alan Spearot](https://sites.google.com/view/acspearot/)). Revised August 2024. Conditionally Accepted, *World Bank Economic Review*. <br/>
-<!-- Presented: [IPA-GPRL Methods & Measurement Conference 2021](https://sites.google.com/view/researcher-gathering/program/october-28-methods-measurement?authuser=0) <br/> -->
-Covered: [VoxDev](https://voxdev.org/topic/methods-measurement/challenge-measuring-intimate-partner-violence-self-interviewing) <br/>
-<br/>
 "[**The Dynamic Effects of Cash Transfers to Agricultural Households**](/files/dynamic_effects.pdf)" (with [Shilpa Aggarwal](https://aggarwalshilpa.wixsite.com/home), [Jenny Aker](https://sites.tufts.edu/jennyaker/), [Dahyeon Jeong](https://dahyeonjeong.com/), [Naresh Kumar](https://sites.google.com/ucsc.edu/nkumar/), [Jonathan Robinson](https://sites.google.com/view/jmrtwo/), and [Alan Spearot](https://sites.google.com/view/acspearot/)). Resubmitted April 2024. Revised and Resubmitted, *American Economic Journal: Applied Economics*. [[AEA RCT Registry]](https://www.socialscienceregistry.org/trials/4869) <br/>
 Covered: [VoxDev](https://voxdev.org/topic/public-economics/dynamic-effects-cash-transfers-evidence-liberia-and-malawi) <br/>
 <br/>
