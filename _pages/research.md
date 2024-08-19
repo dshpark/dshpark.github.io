@@ -16,7 +16,8 @@ Covered: [VoxDev](https://voxdev.org/topic/methods-measurement/challenge-measuri
 (2023) "[**Exhaustive or Exhausting? Evidence on Respondent Fatigue in Long Surveys**](https://www.sciencedirect.com/science/article/pii/S0304387822001341)" (with [Dahyeon Jeong](https://dahyeonjeong.com/), [Shilpa Aggarwal](https://aggarwalshilpa.wixsite.com/home), [Jonathan Robinson](https://sites.google.com/view/jmrtwo/), [Naresh Kumar](https://sites.google.com/ucsc.edu/nkumar/), and [Alan Spearot](https://sites.google.com/view/acspearot/)). *Journal of Development Economics* 161: 102992. <br/>
 [[PDF]](/files/survey_fatigue.pdf) <br/>
 <br/>
-(2022) "[**COVID-19 market disruptions and food security: Evidence from households in rural Liberia and Malawi**](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0271488)" (with [Shilpa Aggarwal](https://aggarwalshilpa.wixsite.com/home), [Dahyeon Jeong](https://dahyeonjeong.com/), [Naresh Kumar](https://sites.google.com/ucsc.edu/nkumar/), [Jonathan Robinson](https://sites.google.com/view/jmrtwo/), and [Alan Spearot](https://sites.google.com/view/acspearot/)). *PLoS ONE* 17(8): e0271488. [[PDF]](/files/COVID_paper.pdf) <br/>
+(2022) "[**COVID-19 market disruptions and food security: Evidence from households in rural Liberia and Malawi**](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0271488)" (with [Shilpa Aggarwal](https://aggarwalshilpa.wixsite.com/home), [Dahyeon Jeong](https://dahyeonjeong.com/), [Naresh Kumar](https://sites.google.com/ucsc.edu/nkumar/), [Jonathan Robinson](https://sites.google.com/view/jmrtwo/), and [Alan Spearot](https://sites.google.com/view/acspearot/)). *PLoS ONE* 17(8): e0271488. <br/>
+[[PDF]](/files/COVID_paper.pdf) <br/>
 <br/>
 
 
