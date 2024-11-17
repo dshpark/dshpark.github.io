@@ -5,8 +5,8 @@ author_profile: true
 ---
 
 <h2> Publications and forthcoming papers </h2>
-(Forthcoming) "[**Private but Misunderstood? Evidence on Measuring Intimate Partner Violence via Self-Interviewing in Rural Liberia and Malawi**](/files/ACASI_paper.pdf)" (with [Shilpa Aggarwal](https://aggarwalshilpa.wixsite.com/home), [Dahyeon Jeong](https://dahyeonjeong.com/), [Naresh Kumar](https://sites.google.com/ucsc.edu/nkumar/), [Jonathan Robinson](https://sites.google.com/view/jmrtwo/), and [Alan Spearot](https://sites.google.com/view/acspearot/)). Revised August 2024. Forthcoming, *World Bank Economic Review*. <br/>
-[[Link to replication data]](https://doi.org/10.7910/DVN/2GD3WE) <br/>
+(2024) "[**Private but Misunderstood? Evidence on Measuring Intimate Partner Violence via Self-Interviewing in Rural Liberia and Malawi**]([/files/ACASI_paper.pdf](https://academic.oup.com/wber/advance-article/doi/10.1093/wber/lhae040/7876502)" (with [Shilpa Aggarwal](https://aggarwalshilpa.wixsite.com/home), [Dahyeon Jeong](https://dahyeonjeong.com/), [Naresh Kumar](https://sites.google.com/ucsc.edu/nkumar/), [Jonathan Robinson](https://sites.google.com/view/jmrtwo/), and [Alan Spearot](https://sites.google.com/view/acspearot/)). *World Bank Economic Review*, lhae040. <br/>
+[[PDF]](/files/ACASI_paper.pdf) [[Link to replication data]](https://doi.org/10.7910/DVN/2GD3WE) <br/>
 <!-- Presented: [IPA-GPRL Methods & Measurement Conference 2021](https://sites.google.com/view/researcher-gathering/program/october-28-methods-measurement?authuser=0) <br/> -->
 Covered: [VoxDev](https://voxdev.org/topic/methods-measurement/challenge-measuring-intimate-partner-violence-self-interviewing) <br/>
 <br/>
