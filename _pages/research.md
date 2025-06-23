@@ -30,7 +30,7 @@ Covered: [VoxDev](https://voxdev.org/topic/public-economics/dynamic-effects-cash
 <!-- "[Reducing Intimate Partner Violence: Evidence from a Multifaceted Female Empowerment Program in Urban Liberia](/files/RC_paper.pdf)" (with [Naresh Kumar](https://sites.google.com/ucsc.edu/nkumar/)). [[AEA RCT Registry]](https://www.socialscienceregistry.org/trials/4488). <br/>
 <!-- Presented: [NEUDC 2021](https://sites.google.com/view/neudc2021), [PacDev 2022](https://cega.berkeley.edu/pacdev-2022-conference-schedule/), [MIEDC 2022](https://sites.google.com/a/umn.edu/miedc/conference-information/) <br/> -->
 <!-- Covered: [World Bank Development Impact Blog](https://blogs.worldbank.org/impactevaluations/holistic-approach-tackling-intimate-partner-violence-among-marginalized-women) <br/>
-<br/> --> -->
+<br/> -->
 "[The Impact of Digital Credit in Developing Economies: A Review of Recent Evidence](/files/DCO_synthesis.pdf)" (with [Joshua Blumenstock](https://jblumenstock.com/) and [Jonathan Robinson](https://sites.google.com/view/jmrtwo/)). <br/>
 <br/>
 "[Global Climate Action and Local Rights: Survey Experimental Evidence on Public Support for Carbon Offsetting in Liberia](/files/CarbonOffset.pdf)" (with [Dongil Lee](https://www.dongillee.com/) and [Inbok Rhee](https://uic.yonsei.ac.kr/main/academic.asp?mid=m03_01_02&act=view&uid=1033&keyword=)). Revised August 2024. <br/>
