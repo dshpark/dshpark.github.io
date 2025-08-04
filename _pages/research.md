@@ -22,7 +22,8 @@ Covered: [VoxDev](https://voxdev.org/topic/methods-measurement/challenge-measuri
 
 
 <h2> Working papers </h2>
-"[The Dynamic Effects of Cash Transfers to Agricultural Households](/files/dynamic_effects.pdf)" (with [Shilpa Aggarwal](https://aggarwalshilpa.wixsite.com/home), [Jenny Aker](https://sites.tufts.edu/jennyaker/), [Dahyeon Jeong](https://dahyeonjeong.com/), [Naresh Kumar](https://sites.google.com/ucsc.edu/nkumar/), [Jonathan Robinson](https://sites.google.com/view/jmrtwo/), and [Alan Spearot](https://sites.google.com/view/acspearot/)). Conditionally Accepted, *American Economic Journal: Applied Economics*. [[AEA RCT Registry]](https://www.socialscienceregistry.org/trials/4869) <br/>
+"[The Dynamic Effects of Cash Transfers to Agricultural Households](/files/dynamic_effects.pdf)" (with [Shilpa Aggarwal](https://aggarwalshilpa.wixsite.com/home), [Jenny Aker](https://sites.tufts.edu/jennyaker/), [Dahyeon Jeong](https://dahyeonjeong.com/), [Naresh Kumar](https://sites.google.com/ucsc.edu/nkumar/), [Jonathan Robinson](https://sites.google.com/view/jmrtwo/), and [Alan Spearot](https://sites.google.com/view/acspearot/)). Conditionally Accepted, *American Economic Journal: Applied Economics*.  <br/>
+[[AEA RCT Registry]](https://www.socialscienceregistry.org/trials/4869) <br/>
 Covered: [VoxDev](https://voxdev.org/topic/public-economics/dynamic-effects-cash-transfers-evidence-liberia-and-malawi) <br/>
 <br/>
 "[Going the Extra Mile: Farm Subsidies and Spatial Convergence in Agricultural Input Adoption](/files/FISP.pdf)" (with [Shilpa Aggarwal](https://aggarwalshilpa.wixsite.com/home), [Dahyeon Jeong](https://dahyeonjeong.com/), [Rolly Kapoor](https://rollykapoor.github.io/), [Naresh Kumar](https://sites.google.com/ucsc.edu/nkumar/), [Jonathan Robinson](https://sites.google.com/view/jmrtwo/), and [Alan Spearot](https://sites.google.com/view/acspearot/)). Revised July 2024. <br/>
@@ -30,7 +31,8 @@ Covered: [VoxDev](https://voxdev.org/topic/public-economics/dynamic-effects-cash
 "[Misperceptions and Product Choice: Evidence from a Randomized Trial in Zambia](/files/product_choice.pdf)" (with [Jie Bai](https://sites.google.com/site/jiebaiecon/home) and [Ajay Shenoy](https://people.ucsc.edu/~azshenoy/)). Revised August 2025. <br/> 
 [[AEA RCT Registry]](https://www.socialscienceregistry.org/trials/11827) <br/>
 <br/>
-"[Temporary Acceleration or Long-Term Change? Experimental Evidence on Female Empowerment and Intimate Partner Violence in Urban Liberia](/files/RC_longterm.pdf)." Revised June 2025. [[AEA RCT Registry]](https://www.socialscienceregistry.org/trials/4488). <br/>
+"[Temporary Acceleration or Long-Term Change? Experimental Evidence on Female Empowerment and Intimate Partner Violence in Urban Liberia](/files/RC_longterm.pdf)." Revised June 2025.  <br/>
+[[AEA RCT Registry]](https://www.socialscienceregistry.org/trials/4488). <br/>
 <!-- Presented: [NEUDC 2021](https://sites.google.com/view/neudc2021), [PacDev 2022](https://cega.berkeley.edu/pacdev-2022-conference-schedule/), [MIEDC 2022](https://sites.google.com/a/umn.edu/miedc/conference-information/) <br/> -->
 Previous version of paper covered in: [World Bank Development Impact Blog](https://blogs.worldbank.org/impactevaluations/holistic-approach-tackling-intimate-partner-violence-among-marginalized-women) <br/>
 <br/>
