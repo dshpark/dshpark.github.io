@@ -26,12 +26,7 @@ Covered: [VoxDev](https://voxdev.org/topic/methods-measurement/challenge-measuri
 [[AEA RCT Registry]](https://www.socialscienceregistry.org/trials/4869) <br/>
 Covered: [VoxDev](https://voxdev.org/topic/public-economics/dynamic-effects-cash-transfers-evidence-liberia-and-malawi) <br/>
 <br/>
-"[Going the Extra Mile: Farm Subsidies and Spatial Convergence in Agricultural Input Adoption](/files/FISP.pdf)" (with [Shilpa Aggarwal](https://aggarwalshilpa.wixsite.com/home), [Dahyeon Jeong](https://dahyeonjeong.com/), [Rolly Kapoor](https://rollykapoor.github.io/), [Naresh Kumar](https://sites.google.com/ucsc.edu/nkumar/), [Jonathan Robinson](https://sites.google.com/view/jmrtwo/), and [Alan Spearot](https://sites.google.com/view/acspearot/)). Revised July 2024. <br/>
-<br/>
-"[Misperceptions and Product Choice: Evidence from a Randomized Trial in Zambia](/files/product_choice.pdf)" (with [Jie Bai](https://sites.google.com/site/jiebaiecon/home) and [Ajay Shenoy](https://people.ucsc.edu/~azshenoy/)). Revised August 2025. <br/> 
-[[AEA RCT Registry]](https://www.socialscienceregistry.org/trials/11827) <br/>
-<br/>
-"[Temporary Acceleration or Long-Term Change? Experimental Evidence on Female Empowerment and Intimate Partner Violence in Urban Liberia](/files/RC_longterm.pdf)." Revised June 2025.  <br/>
+"[Temporary Acceleration or Long-Term Change? Experimental Evidence on Female Empowerment and Intimate Partner Violence in Urban Liberia](/files/RC_longterm.pdf)." Revise & Resubmit, *Journal of Development Economics*.  <br/>
 [[AEA RCT Registry]](https://www.socialscienceregistry.org/trials/4488). <br/>
 <!-- Presented: [NEUDC 2021](https://sites.google.com/view/neudc2021), [PacDev 2022](https://cega.berkeley.edu/pacdev-2022-conference-schedule/), [MIEDC 2022](https://sites.google.com/a/umn.edu/miedc/conference-information/) <br/> -->
 Previous version of paper covered in: [World Bank Development Impact Blog](https://blogs.worldbank.org/impactevaluations/holistic-approach-tackling-intimate-partner-violence-among-marginalized-women) <br/>
@@ -40,6 +35,11 @@ Previous version of paper covered in: [World Bank Development Impact Blog](https
 <!-- Presented: [NEUDC 2021](https://sites.google.com/view/neudc2021), [PacDev 2022](https://cega.berkeley.edu/pacdev-2022-conference-schedule/), [MIEDC 2022](https://sites.google.com/a/umn.edu/miedc/conference-information/) <br/> -->
 <!-- Covered: [World Bank Development Impact Blog](https://blogs.worldbank.org/impactevaluations/holistic-approach-tackling-intimate-partner-violence-among-marginalized-women) <br/>
 <br/> -->
+"[Going the Extra Mile: Farm Subsidies and Spatial Convergence in Agricultural Input Adoption](/files/FISP.pdf)" (with [Shilpa Aggarwal](https://aggarwalshilpa.wixsite.com/home), [Dahyeon Jeong](https://dahyeonjeong.com/), [Rolly Kapoor](https://rollykapoor.github.io/), [Naresh Kumar](https://sites.google.com/ucsc.edu/nkumar/), [Jonathan Robinson](https://sites.google.com/view/jmrtwo/), and [Alan Spearot](https://sites.google.com/view/acspearot/)). Revised July 2024. <br/>
+<br/>
+"[Misperceptions and Product Choice: Evidence from a Randomized Trial in Zambia](/files/product_choice.pdf)" (with [Jie Bai](https://sites.google.com/site/jiebaiecon/home) and [Ajay Shenoy](https://people.ucsc.edu/~azshenoy/)). Revised August 2025. <br/> 
+[[AEA RCT Registry]](https://www.socialscienceregistry.org/trials/11827) <br/>
+<br/>
 "[The Impact of Digital Credit in Developing Economies: A Review of Recent Evidence](/files/DCO_synthesis.pdf)" (with [Joshua Blumenstock](https://jblumenstock.com/) and [Jonathan Robinson](https://sites.google.com/view/jmrtwo/)). <br/>
 <br/>
 "[Global Climate Action and Local Rights: Survey Experimental Evidence on Public Support for Carbon Offsetting in Liberia](/files/CarbonOffset.pdf)" (with [Dongil Lee](https://www.dongillee.com/) and [Inbok Rhee](https://uic.yonsei.ac.kr/main/academic.asp?mid=m03_01_02&act=view&uid=1033&keyword=)). Revised August 2024. <br/>
