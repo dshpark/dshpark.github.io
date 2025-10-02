@@ -5,6 +5,10 @@ author_profile: true
 ---
 
 <h2> Publications and forthcoming papers </h2>
+(Forthcoming) "[The Dynamic Effects of Cash Transfers to Agricultural Households](/files/dynamic_effects.pdf)" (with [Shilpa Aggarwal](https://aggarwalshilpa.wixsite.com/home), [Jenny Aker](https://sites.tufts.edu/jennyaker/), [Dahyeon Jeong](https://dahyeonjeong.com/), [Naresh Kumar](https://sites.google.com/ucsc.edu/nkumar/), [Jonathan Robinson](https://sites.google.com/view/jmrtwo/), and [Alan Spearot](https://sites.google.com/view/acspearot/)). *American Economic Journal: Applied Economics*.  <br/>
+[[AEA RCT Registry]](https://www.socialscienceregistry.org/trials/4869) <br/>
+Covered: [VoxDev](https://voxdev.org/topic/public-economics/dynamic-effects-cash-transfers-evidence-liberia-and-malawi) <br/>
+<br/>
 (2024) "[Private but Misunderstood? Evidence on Measuring Intimate Partner Violence via Self-Interviewing in Rural Liberia and Malawi](https://academic.oup.com/wber/advance-article/doi/10.1093/wber/lhae040/7876502)" (with [Shilpa Aggarwal](https://aggarwalshilpa.wixsite.com/home), [Dahyeon Jeong](https://dahyeonjeong.com/), [Naresh Kumar](https://sites.google.com/ucsc.edu/nkumar/), [Jonathan Robinson](https://sites.google.com/view/jmrtwo/), and [Alan Spearot](https://sites.google.com/view/acspearot/)). *World Bank Economic Review*, lhae040. <br/>
 [[PDF]](/files/ACASI_paper.pdf) [[Link to replication data]](https://doi.org/10.7910/DVN/2GD3WE) <br/>
 <!-- Presented: [IPA-GPRL Methods & Measurement Conference 2021](https://sites.google.com/view/researcher-gathering/program/october-28-methods-measurement?authuser=0) <br/> -->
@@ -22,10 +26,6 @@ Covered: [VoxDev](https://voxdev.org/topic/methods-measurement/challenge-measuri
 
 
 <h2> Working papers </h2>
-"[The Dynamic Effects of Cash Transfers to Agricultural Households](/files/dynamic_effects.pdf)" (with [Shilpa Aggarwal](https://aggarwalshilpa.wixsite.com/home), [Jenny Aker](https://sites.tufts.edu/jennyaker/), [Dahyeon Jeong](https://dahyeonjeong.com/), [Naresh Kumar](https://sites.google.com/ucsc.edu/nkumar/), [Jonathan Robinson](https://sites.google.com/view/jmrtwo/), and [Alan Spearot](https://sites.google.com/view/acspearot/)). Conditionally Accepted, *American Economic Journal: Applied Economics*.  <br/>
-[[AEA RCT Registry]](https://www.socialscienceregistry.org/trials/4869) <br/>
-Covered: [VoxDev](https://voxdev.org/topic/public-economics/dynamic-effects-cash-transfers-evidence-liberia-and-malawi) <br/>
-<br/>
 "[Temporary Acceleration or Long-Term Change? Experimental Evidence on Female Empowerment and Intimate Partner Violence in Urban Liberia](/files/RC_longterm.pdf)." Revise & Resubmit, *Journal of Development Economics*.  <br/>
 [[AEA RCT Registry]](https://www.socialscienceregistry.org/trials/4488). <br/>
 <!-- Presented: [NEUDC 2021](https://sites.google.com/view/neudc2021), [PacDev 2022](https://cega.berkeley.edu/pacdev-2022-conference-schedule/), [MIEDC 2022](https://sites.google.com/a/umn.edu/miedc/conference-information/) <br/> -->
