@@ -42,7 +42,7 @@ Previous version of paper covered in: [World Bank Development Impact Blog](https
 <br/>
 "[The Impact of Digital Credit in Developing Economies: A Review of Recent Evidence](/files/DCO_synthesis.pdf)" (with [Joshua Blumenstock](https://jblumenstock.com/) and [Jonathan Robinson](https://sites.google.com/view/jmrtwo/)). <br/>
 <br/>
-"[Global Climate Action and Local Rights: Survey Experimental Evidence on Public Support for Carbon Offsetting in Liberia](/files/CarbonOffset.pdf)" (with [Dongil Lee](https://www.dongillee.com/) and [Inbok Rhee](https://uic.yonsei.ac.kr/main/academic.asp?mid=m03_01_02&act=view&uid=1033&keyword=)). Revised August 2024. <br/>
+"[Global Climate Action and Local Rights: Survey Experimental Evidence on Public Support for Carbon Offsetting in Liberia](/files/CarbonOffset.pdf)" (with [Dongil Lee](https://www.dongillee.com/) and [Inbok Rhee](https://uic.yonsei.ac.kr/main/academic.asp?mid=m03_01_02&act=view&uid=1033&keyword=)). Revised December 2025. <br/>
 <br/>
 
 
