@@ -35,7 +35,8 @@ Previous version of paper covered in: [World Bank Development Impact Blog](https
 <!-- Presented: [NEUDC 2021](https://sites.google.com/view/neudc2021), [PacDev 2022](https://cega.berkeley.edu/pacdev-2022-conference-schedule/), [MIEDC 2022](https://sites.google.com/a/umn.edu/miedc/conference-information/) <br/> -->
 <!-- Covered: [World Bank Development Impact Blog](https://blogs.worldbank.org/impactevaluations/holistic-approach-tackling-intimate-partner-violence-among-marginalized-women) <br/>
 <br/> -->
-"[Going the Extra Mile: Farm Subsidies and Spatial Convergence in Agricultural Input Adoption](/files/FISP.pdf)" (with [Shilpa Aggarwal](https://aggarwalshilpa.wixsite.com/home), [Dahyeon Jeong](https://dahyeonjeong.com/), [Rolly Kapoor](https://rollykapoor.github.io/), [Naresh Kumar](https://sites.google.com/ucsc.edu/nkumar/), [Jonathan Robinson](https://sites.google.com/view/jmrtwo/), and [Alan Spearot](https://sites.google.com/view/acspearot/)). Revised July 2024. <br/>
+"[Going the Extra Mile: Farm Subsidies and Spatial Convergence in Agricultural Input Adoption](/files/FISP.pdf)" (with [Shilpa Aggarwal](https://aggarwalshilpa.wixsite.com/home), [Dahyeon Jeong](https://dahyeonjeong.com/), [Rolly Kapoor](https://rollykapoor.github.io/), [Naresh Kumar](https://sites.google.com/ucsc.edu/nkumar/), [Jonathan Robinson](https://sites.google.com/view/jmrtwo/), and [Alan Spearot](https://sites.google.com/view/acspearot/)). Revised January 2026. <br/>
+[[Link to surveys]](https://drive.google.com/drive/folders/1rc4zmjqkZKejKeBWmUEt5FW7mD7-sBy7?usp=sharing) <br/>
 <br/>
 "[Misperceptions and Product Choice: Evidence from a Randomized Trial in Zambia](/files/product_choice.pdf)" (with [Jie Bai](https://sites.google.com/site/jiebaiecon/home) and [Ajay Shenoy](https://people.ucsc.edu/~azshenoy/)). Revised August 2025. <br/> 
 [[AEA RCT Registry]](https://www.socialscienceregistry.org/trials/11827) <br/>
