@@ -38,7 +38,7 @@ Previous version of paper covered in: [World Bank Development Impact Blog](https
 "[Going the Extra Mile: Farm Subsidies and Spatial Convergence in Agricultural Input Adoption](/files/FISP.pdf)" (with [Shilpa Aggarwal](https://aggarwalshilpa.wixsite.com/home), [Dahyeon Jeong](https://dahyeonjeong.com/), [Rolly Kapoor](https://rollykapoor.github.io/), [Naresh Kumar](https://sites.google.com/ucsc.edu/nkumar/), [Jonathan Robinson](https://sites.google.com/view/jmrtwo/), and [Alan Spearot](https://sites.google.com/view/acspearot/)). Revised January 2026. <br/>
 [[Link to surveys]](https://drive.google.com/drive/folders/1rc4zmjqkZKejKeBWmUEt5FW7mD7-sBy7?usp=sharing) <br/>
 <br/>
-"[Misperceptions and Product Choice: Evidence from a Randomized Trial in Zambia](/files/product_choice.pdf)" (with [Jie Bai](https://sites.google.com/site/jiebaiecon/home) and [Ajay Shenoy](https://people.ucsc.edu/~azshenoy/)). Revised August 2025. <br/> 
+"[Misperceptions and Product Choice: Evidence from a Randomized Trial in Zambia](/files/product_choice.pdf)" (with [Jie Bai](https://sites.google.com/site/jiebaiecon/home) and [Ajay Shenoy](https://people.ucsc.edu/~azshenoy/)). Revised February 2026. <br/> 
 [[AEA RCT Registry]](https://www.socialscienceregistry.org/trials/11827) <br/>
 <br/>
 "[The Impact of Digital Credit in Developing Economies: A Review of Recent Evidence](/files/DCO_synthesis.pdf)" (with [Joshua Blumenstock](https://jblumenstock.com/) and [Jonathan Robinson](https://sites.google.com/view/jmrtwo/)). <br/>
