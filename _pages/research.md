@@ -45,6 +45,8 @@ Previous version of paper covered in: [World Bank Development Impact Blog](https
 <br/>
 "[Global Climate Action and Local Rights: Survey Experimental Evidence on Public Support for Carbon Offsetting in Liberia](/files/CarbonOffset.pdf)" (with [Dongil Lee](https://www.dongillee.com/) and [Inbok Rhee](https://uic.yonsei.ac.kr/main/academic.asp?mid=m03_01_02&act=view&uid=1033&keyword=)). Revised December 2025. <br/>
 <br/>
+"[Information and Attitudes toward Fixed Budget Formulas: Experimental Evidence from Korea’s Education Finance](/files/EducFinance.pdf)" (with [Hwanoong Lee](https://hwanoonglee.com/) and [Kyoung Hoon Lee](https://www.kyounghoonlee.com/)). Revised April 2026. <br/>
+<br/>
 
 
 <h2> Works in progress </h2>
