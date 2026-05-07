@@ -26,7 +26,7 @@ Covered: [VoxDev](https://voxdev.org/topic/methods-measurement/challenge-measuri
 
 
 <h2> Working papers </h2>
-"[Temporary Acceleration or Long-Term Change? Experimental Evidence on Female Empowerment and Intimate Partner Violence in Urban Liberia](/files/RC_longterm.pdf)." Revise & Resubmit, *Journal of Development Economics*.  <br/>
+"[Temporary Acceleration or Long-Term Change? Experimental Evidence on Female Empowerment and Intimate Partner Violence in Urban Liberia](/files/RC_longterm.pdf)." Revised May 2026. Revised & Resubmited, *Journal of Development Economics*.  <br/>
 [[AEA RCT Registry]](https://www.socialscienceregistry.org/trials/4488). <br/>
 <!-- Presented: [NEUDC 2021](https://sites.google.com/view/neudc2021), [PacDev 2022](https://cega.berkeley.edu/pacdev-2022-conference-schedule/), [MIEDC 2022](https://sites.google.com/a/umn.edu/miedc/conference-information/) <br/> -->
 Previous version of paper covered in: [World Bank Development Impact Blog](https://blogs.worldbank.org/impactevaluations/holistic-approach-tackling-intimate-partner-violence-among-marginalized-women) <br/>
