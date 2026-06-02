@@ -5,7 +5,11 @@ author_profile: true
 ---
 
 <h2> Publications and forthcoming papers </h2>
-(Accepted) "[Temporary Acceleration or Long-Term Change? Experimental Evidence on Female Empowerment and Intimate Partner Violence in Urban Liberia](/files/RC_longterm.pdf)." *Journal of Development Economics*.  <br/>
+(Forthcoming) "[The Dynamic Effects of Cash Transfers to Agricultural Households](https://www.aeaweb.org/articles?id=10.1257/app.20230034)" (with [Shilpa Aggarwal](https://aggarwalshilpa.wixsite.com/home), [Jenny Aker](https://sites.tufts.edu/jennyaker/), [Dahyeon Jeong](https://dahyeonjeong.com/), [Naresh Kumar](https://sites.google.com/ucsc.edu/nkumar/), [Jonathan Robinson](https://sites.google.com/view/jmrtwo/), and [Alan Spearot](https://sites.google.com/view/acspearot/)). *American Economic Journal: Applied Economics*.  <br/>
+[[PDF]](/files/dynamic_effects.pdf) [[AEA RCT Registry]](https://www.socialscienceregistry.org/trials/4869) <br/>
+Covered: [VoxDev](https://voxdev.org/topic/public-economics/dynamic-effects-cash-transfers-evidence-liberia-and-malawi) <br/>
+<br/>
+(2026) "[Temporary Acceleration or Long-Term Change? Experimental Evidence on Female Empowerment and Intimate Partner Violence in Urban Liberia](https://doi.org/10.1016/j.jdeveco.2026.103823)." *Journal of Development Economics* 182: 103823.  <br/>
 [[AEA RCT Registry]](https://www.socialscienceregistry.org/trials/4488). <br/>
 <!-- Presented: [NEUDC 2021](https://sites.google.com/view/neudc2021), [PacDev 2022](https://cega.berkeley.edu/pacdev-2022-conference-schedule/), [MIEDC 2022](https://sites.google.com/a/umn.edu/miedc/conference-information/) <br/> -->
 Previous version of paper covered in: [World Bank Development Impact Blog](https://blogs.worldbank.org/impactevaluations/holistic-approach-tackling-intimate-partner-violence-among-marginalized-women) <br/>
@@ -14,10 +18,6 @@ Previous version of paper covered in: [World Bank Development Impact Blog](https
 <!-- Presented: [NEUDC 2021](https://sites.google.com/view/neudc2021), [PacDev 2022](https://cega.berkeley.edu/pacdev-2022-conference-schedule/), [MIEDC 2022](https://sites.google.com/a/umn.edu/miedc/conference-information/) <br/> -->
 <!-- Covered: [World Bank Development Impact Blog](https://blogs.worldbank.org/impactevaluations/holistic-approach-tackling-intimate-partner-violence-among-marginalized-women) <br/>
 <br/> -->
-(Forthcoming) "[The Dynamic Effects of Cash Transfers to Agricultural Households](https://www.aeaweb.org/articles?id=10.1257/app.20230034)" (with [Shilpa Aggarwal](https://aggarwalshilpa.wixsite.com/home), [Jenny Aker](https://sites.tufts.edu/jennyaker/), [Dahyeon Jeong](https://dahyeonjeong.com/), [Naresh Kumar](https://sites.google.com/ucsc.edu/nkumar/), [Jonathan Robinson](https://sites.google.com/view/jmrtwo/), and [Alan Spearot](https://sites.google.com/view/acspearot/)). *American Economic Journal: Applied Economics*.  <br/>
-[[PDF]](/files/dynamic_effects.pdf) [[AEA RCT Registry]](https://www.socialscienceregistry.org/trials/4869) <br/>
-Covered: [VoxDev](https://voxdev.org/topic/public-economics/dynamic-effects-cash-transfers-evidence-liberia-and-malawi) <br/>
-<br/>
 (2025) "[Private but Misunderstood? Evidence on Measuring Intimate Partner Violence via Self-Interviewing in Rural Liberia and Malawi](https://academic.oup.com/wber/article-abstract/39/4/907/7876502)" (with [Shilpa Aggarwal](https://aggarwalshilpa.wixsite.com/home), [Dahyeon Jeong](https://dahyeonjeong.com/), [Naresh Kumar](https://sites.google.com/ucsc.edu/nkumar/), [Jonathan Robinson](https://sites.google.com/view/jmrtwo/), and [Alan Spearot](https://sites.google.com/view/acspearot/)). *World Bank Economic Review* 39(4): 907-923. <br/>
 [[PDF]](/files/ACASI_paper.pdf) [[Link to replication data]](https://doi.org/10.7910/DVN/2GD3WE) <br/>
 <!-- Presented: [IPA-GPRL Methods & Measurement Conference 2021](https://sites.google.com/view/researcher-gathering/program/october-28-methods-measurement?authuser=0) <br/> -->
