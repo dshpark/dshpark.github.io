@@ -5,7 +5,7 @@ author_profile: true
 ---
 
 <h2> Publications and forthcoming papers </h2>
-(Forthcoming) "[The Dynamic Effects of Cash Transfers to Agricultural Households](https://www.aeaweb.org/articles?id=10.1257/app.20230034)" (with [Shilpa Aggarwal](https://aggarwalshilpa.wixsite.com/home), [Jenny Aker](https://sites.tufts.edu/jennyaker/), [Dahyeon Jeong](https://dahyeonjeong.com/), [Naresh Kumar](https://sites.google.com/ucsc.edu/nkumar/), [Jonathan Robinson](https://sites.google.com/view/jmrtwo/), and [Alan Spearot](https://sites.google.com/view/acspearot/)). *American Economic Journal: Applied Economics*.  <br/>
+(2026) "[The Dynamic Effects of Cash Transfers to Agricultural Households](https://www.aeaweb.org/articles?id=10.1257/app.20230034)" (with [Shilpa Aggarwal](https://aggarwalshilpa.wixsite.com/home), [Jenny Aker](https://sites.tufts.edu/jennyaker/), [Dahyeon Jeong](https://dahyeonjeong.com/), [Naresh Kumar](https://sites.google.com/ucsc.edu/nkumar/), [Jonathan Robinson](https://sites.google.com/view/jmrtwo/), and [Alan Spearot](https://sites.google.com/view/acspearot/)). *American Economic Journal: Applied Economics* 18 (3): 254–82.  <br/>
 [[PDF]](/files/dynamic_effects.pdf) [[AEA RCT Registry]](https://www.socialscienceregistry.org/trials/4869) <br/>
 Covered: [VoxDev](https://voxdev.org/topic/public-economics/dynamic-effects-cash-transfers-evidence-liberia-and-malawi) <br/>
 <br/>
