@@ -47,6 +47,8 @@ Covered: [VoxDev](https://voxdev.org/topic/methods-measurement/challenge-measuri
 <br/>
 "[Shrinking Cohorts, Fixed Earmarks: An Information Experiment on Public Preferences over Education Finance in Korea](/files/EducFinance.pdf)" (with [Hwanoong Lee](https://hwanoonglee.com/) and [Kyoung Hoon Lee](https://www.kyounghoonlee.com/)). Revised June 2026. <br/>
 <br/>
+"[Compounded Climate Shocks and Food Security: Evidence from Back-to-Back Cyclones in Madagascar](/files/Madagascar_cyclones.pdf)" (with [Ny Aina Ianjatina Andrianony](https://cega.berkeley.edu/person/andrianony/)). Revised August 2026. <br/>
+<br/>
 
 
 <h2> Works in progress </h2>
