@@ -49,6 +49,9 @@ Covered: [VoxDev](https://voxdev.org/topic/methods-measurement/challenge-measuri
 <br/>
 "[Compounded Climate Shocks and Food Security: Evidence from Back-to-Back Cyclones in Madagascar](/files/Madagascar_cyclones.pdf)" (with [Ny Aina Ianjatina Andrianony](https://cega.berkeley.edu/person/andrianony/)). Revised August 2026. <br/>
 <br/>
+"[Who Should Pay for the Wetland? Payments for Ecosystem Services and Demand for Government Action in Rural Uganda](/files/UgandaPES.pdf)" (with Babatunde Abidoye, Kingsley Bekoe, Michell Dong, Maria Moz-Christofoletti, and Jascinta Nalwoga). August 2026. <br/>
+[[AEA RCT Registry]](https://www.socialscienceregistry.org/trials/19356) <br/>
+<br/>
 
 
 <h2> Works in progress </h2>
