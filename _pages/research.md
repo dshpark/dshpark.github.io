@@ -38,14 +38,14 @@ Covered: [VoxDev](https://voxdev.org/topic/methods-measurement/challenge-measuri
 "[Going the Extra Mile: Farm Subsidies and Spatial Convergence in Agricultural Input Adoption](/files/FISP.pdf)" (with [Shilpa Aggarwal](https://aggarwalshilpa.wixsite.com/home), [Dahyeon Jeong](https://dahyeonjeong.com/), [Rolly Kapoor](https://rollykapoor.github.io/), [Naresh Kumar](https://sites.google.com/ucsc.edu/nkumar/), [Jonathan Robinson](https://sites.google.com/view/jmrtwo/), and [Alan Spearot](https://sites.google.com/view/acspearot/)). Revised January 2026. Revise & Resubmit, *Economic Development and Cultural Change*. <br/>
 [[Link to surveys]](https://drive.google.com/drive/folders/1rc4zmjqkZKejKeBWmUEt5FW7mD7-sBy7?usp=sharing) <br/>
 <br/>
+"[Shrinking Cohorts, Fixed Earmarks: An Information Experiment on Public Preferences over Education Finance in Korea](/files/EducFinance.pdf)" (with [Hwanoong Lee](https://hwanoonglee.com/) and [Kyoung Hoon Lee](https://www.kyounghoonlee.com/)). Revised June 2026. Revise & Resubmit, *Journal of Economic Behavior & Organization*. <br/>
+<br/>
 "[Misperceptions and Product Choice: Evidence from a Randomized Trial in Zambia](/files/product_choice.pdf)" (with [Jie Bai](https://sites.google.com/site/jiebaiecon/home) and [Ajay Shenoy](https://people.ucsc.edu/~azshenoy/)). Revised February 2026. <br/> 
 [[AEA RCT Registry]](https://www.socialscienceregistry.org/trials/11827) <br/>
 <br/>
 "[The Impact of Digital Credit in Developing Economies: A Review of Recent Evidence](/files/DCO_synthesis.pdf)" (with [Joshua Blumenstock](https://jblumenstock.com/) and [Jonathan Robinson](https://sites.google.com/view/jmrtwo/)). <br/>
 <br/>
 "[Global Climate Action and Local Rights: Survey Experimental Evidence on Public Support for Carbon Offsetting in Liberia](/files/CarbonOffset.pdf)" (with [Dongil Lee](https://www.dongillee.com/) and [Inbok Rhee](https://uic.yonsei.ac.kr/main/academic.asp?mid=m03_01_02&act=view&uid=1033&keyword=)). Revised December 2025. <br/>
-<br/>
-"[Shrinking Cohorts, Fixed Earmarks: An Information Experiment on Public Preferences over Education Finance in Korea](/files/EducFinance.pdf)" (with [Hwanoong Lee](https://hwanoonglee.com/) and [Kyoung Hoon Lee](https://www.kyounghoonlee.com/)). Revised June 2026. <br/>
 <br/>
 "[Compounded Climate Shocks and Food Security: Evidence from Back-to-Back Cyclones in Madagascar](/files/Madagascar_cyclones.pdf)" (with [Ny Aina Ianjatina Andrianony](https://cega.berkeley.edu/person/andrianony/)). Revised August 2026. <br/>
 <br/>
